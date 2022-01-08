@@ -7,7 +7,7 @@
 	"background": "white",
 	"single_instance": "yes",
 	"text": "no",
-	"texture": "yes, sketch",
+	"texture": "no",
 	"perspective": "no, unrealistic" },
 {
 	"image_name": "sketch/horse/n02374451_1234-2.png",
@@ -18,7 +18,7 @@
 	"background": "white",
 	"single_instance": "yes",
 	"text": "no",
-	"texture": "yes, sketch",
+	"texture": "no",
 	"perspective": "no, unrealistic" },
 {
 	"image_name": "sketch/dog/5290.png",
@@ -29,7 +29,7 @@
 	"background": "white",
 	"single_instance": "yes",
 	"text": "no",
-	"texture": "yes, sketch",
+	"texture": "no",
 	"perspective": "no, unrealistic" },
 {
 	"image_name": "sketch/elephant/n02503517_10778-1.png",
@@ -40,7 +40,7 @@
 	"background": "white",
 	"single_instance": "yes",
 	"text": "no",
-	"texture": "yes, sketch",
+	"texture": "no",
 	"perspective": "good semi realistic sketch" },
 {
 	"image_name": "sketch/elephant/n02503517_1453-3.png",
@@ -51,7 +51,7 @@
 	"background": "white",
 	"single_instance": "yes",
 	"text": "no",
-	"texture": "yes, sketch",
+	"texture": "no",
 	"perspective": "no, unrealistic" },
 {
 	"image_name": "sketch/guitar/n02676566_6631-1.png",
@@ -62,7 +62,7 @@
 	"background": "white",
 	"single_instance": "yes",
 	"text": "no",
-	"texture": "yes, sketch",
+	"texture": "no",
 	"perspective": "no, unrealistic" },
 {
 	"image_name": "sketch/elephant/n02503517_6232-3.png",
@@ -73,7 +73,7 @@
 	"background": "white",
 	"single_instance": "yes",
 	"text": "no",
-	"texture": "yes, sketch",
+	"texture": "no",
 	"perspective": "no, unrealistic" },
 {
 	"image_name": "sketch/elephant/n02503517_1583-5.png",
@@ -84,7 +84,7 @@
 	"background": "white",
 	"single_instance": "yes",
 	"text": "no",
-	"texture": "yes, sketch",
+	"texture": "no",
 	"perspective": "no, unrealistic" },
 {
 	"image_name": "sketch/dog/n02103406_865-6.png",
@@ -95,7 +95,7 @@
 	"background": "white",
 	"single_instance": "yes",
 	"text": "no",
-	"texture": "yes, sketch",
+	"texture": "no",
 	"perspective": "no, unrealistic" },
 {
 	"image_name": "sketch/elephant/n02503517_9043-10.png",
@@ -106,7 +106,7 @@
 	"background": "white",
 	"single_instance": "yes",
 	"text": "no",
-	"texture": "yes, sketch",
+	"texture": "no",
 	"perspective": "no, unrealistic" },
 {
 	"image_name": "sketch/dog/5299.png",
@@ -117,7 +117,7 @@
 	"background": "white",
 	"single_instance": "yes",
 	"text": "no",
-	"texture": "yes, sketch",
+	"texture": "no",
 	"perspective": "no, unrealistic" },
 {
 	"image_name": "sketch/dog/n02103406_8421-2.png",
@@ -128,7 +128,7 @@
 	"background": "white",
 	"single_instance": "yes",
 	"text": "no",
-	"texture": "yes, sketch",
+	"texture": "no",
 	"perspective": "no, unrealistic" },
 {	
 	"image_name": "sketch/elephant/n02503517_10440-2.png",
@@ -139,7 +139,7 @@
 	"background": "white",
 	"single_instance": "yes",
 	"text": "no",
-	"texture": "yes, sketch",
+	"texture": "no",
 	"perspective": "no, completely unrealistic" },
 {
 	"image_name": "sketch/dog/n02103406_6530-5.png",
@@ -150,7 +150,7 @@
 	"background": "white",
 	"single_instance": "yes",
 	"text": "no",
-	"texture": "yes, sketch",
+	"texture": "no",
 	"perspective": "no, unrealistic" },
 {
 	"image_name": "sketch/giraffe/n02439033_11599-1.png",
@@ -161,7 +161,7 @@
 	"background": "white",
 	"single_instance": "yes",
 	"text": "no",
-	"texture": "yes, sketch",
+	"texture": "no",
 	"perspective": "semi realistic" },
 {
 	"image_name": "sketch/elephant/n02503517_10778-2.png",
@@ -172,7 +172,7 @@
 	"background": "white",
 	"single_instance": "yes",
 	"text": "no",
-	"texture": "yes, sketch",
+	"texture": "no",
 	"perspective": "no, unrealistic" },
 {
 	"image_name": "sketch/dog/5339.png",
@@ -183,7 +183,7 @@
 	"background": "white",
 	"single_instance": "yes",
 	"text": "no",
-	"texture": "yes, sketch",
+	"texture": "no",
 	"perspective": "no, completely unrealistic" },
 {
 	"image_name": "sketch/elephant/5948.png",
@@ -194,7 +194,7 @@
 	"background": "white",
 	"single_instance": "yes",
 	"text": "no",
-	"texture": "yes, sketch",
+	"texture": "no",
 	"perspective": "no, unrealistic" },
 {
 	"image_name": "sketch/giraffe/n02439033_6552-4.png",
@@ -205,7 +205,7 @@
 	"background": "white",
 	"single_instance": "yes",
 	"text": "no",
-	"texture": "yes, sketch",
+	"texture": "no",
 	"perspective": "no, unrealistic" },
 {
 	"image_name": "sketch/dog/n02106662_25917-1.png",
@@ -216,6 +216,61 @@
 	"background": "white",
 	"single_instance": "yes",
 	"text": "no",
-	"texture": "yes, sketch",
+	"texture": "no",
+	"perspective": "no, unrealistic" }, 
+{
+	"image_name": "sketch/elephant/n02503517_7020-6.png",
+	"details": "low level",
+	"edges": "discontinuous line in half",
+	"color_saturation": "none",
+	"color_shades": "none",
+	"background": "white",
+	"single_instance": "yes",
+	"text": "no",
+	"texture": "no",
+	"perspective": "no, unrealistic" }, 
+{
+	"image_name": "sketch/guitar/n02676566_7385-4.png",
+	"details": "low level",
+	"edges": "edges and lines not evident and confusing",
+	"color_saturation": "none",
+	"color_shades": "none",
+	"background": "white",
+	"single_instance": "yes",
+	"text": "no",
+	"texture": "no",
+	"perspective": "no, unrealistic" },
+{
+	"image_name": "sketch/guitar/n02676566_6150-5.png",
+	"details": "low level",
+	"edges": "evident and marked edges",
+	"color_saturation": "none",
+	"color_shades": "none",
+	"background": "white",
+	"single_instance": "yes",
+	"text": "no",
+	"texture": "no",
+	"perspective": "no, unrealistic" },
+{
+	"image_name": "sketch/guitar/n02676566_8820-4.png",
+	"details": "low level",
+	"edges": "sharp edges, broken line",
+	"color_saturation": "none",
+	"color_shades": "none",
+	"background": "white",
+	"single_instance": "yes",
+	"text": "no",
+	"texture": "no",
+	"perspective": "no, unrealistic" }, 
+{
+	"image_name": "sketch/giraffe/n02439033_10802-7.png",
+	"details": "low level",
+	"edges": "bordi evidenti, non completi",
+	"color_saturation": "none",
+	"color_shades": "none",
+	"background": "white",
+	"single_instance": "yes",
+	"text": "no",
+	"texture": "no",
 	"perspective": "no, unrealistic" }]
 	
