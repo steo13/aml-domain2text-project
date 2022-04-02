@@ -13,6 +13,10 @@ from model.build_gen import  Generator,Standard_Classifier
 from tqdm import tqdm
 from numpy import dot
 from model.triplet_match.model import TripletMatch
+
+from model.triplet_match.config_default import C as cfg
+from model.triplet_match.config_default import prepare
+
 from datasets.dataset_read import dataset_read_eval
 
 
@@ -44,7 +48,9 @@ def main():
 
     print(args)
     if args.metric_learning is not None:
-        print("Hello")
+        prepare(cfg)                #preparazione configurazione di default
+        cfg.freeze()                #freeze della configurazione
+        print(cfg.dump())          
     else:
         target_txt = args.path_to_txt + '/' + args.target + '.txt'
 
