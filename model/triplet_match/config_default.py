@@ -1,3 +1,4 @@
+import yacs
 from yacs.config import CfgNode as CN
 
 C = CN()

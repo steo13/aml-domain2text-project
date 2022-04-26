@@ -34,6 +34,7 @@ def cosine_sim(a,b):
 parser = argparse.ArgumentParser(description='PyTorch Implementation')
 
 parser.add_argument('--metric_learning', type=str, default='MeanPooling', help='encoder for the metric learning')
+
 parser.add_argument('--target', type=str, default='ArtPainting', metavar='N', help='target dataset')
 parser.add_argument('--path_to_txt', type=str,default='./aml-domain2text-project/data/PACS', help='path to the txt files')
 parser.add_argument('--path_to_dataset', type=str, default='./aml-domain2text-project/',help='path to the dataset')
