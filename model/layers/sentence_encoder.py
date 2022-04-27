@@ -1,8 +1,5 @@
 import torch
 import torch.nn as nn
-
-
-
 from transformers import BertTokenizer, BertModel
 
 def make_encoder():
