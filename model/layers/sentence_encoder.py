@@ -14,7 +14,7 @@ class BertEncoder(nn.Module):
         # Load pre-trained model tokenizer (vocabulary)
         self.tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
         self.model = BertModel.from_pretrained('bert-base-uncased')
-        self.out_dim = 300 #768
+        self.out_dim = 768
         self.eval()
 
     def forward(self, sentences, device='cuda'):
