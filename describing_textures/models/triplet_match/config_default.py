@@ -3,11 +3,11 @@ from yacs.config import CfgNode as CN
 C = CN()
 C.DEVICE = 'cuda'
 C.RAND_SEED = 2020
-C.OUTPUT_PATH = '/content/aml-describing-textures/models/triplet_match/BEST_checkpoint.pth'
+C.OUTPUT_PATH = '/content/aml-domain2text-project/describing_textures/models/triplet_match/BEST_checkpoint.pth'
 C.TRAIN_SPLIT = 'train'
 C.EVAL_SPLIT = 'val'
 
-C.LOAD_WEIGHTS = ''
+C.LOAD_WEIGHTS = '/content/aml-domain2text-project/outputs/triplet_match/BEST_checkpoint_original.pth'
 C.INIT_WORD_EMBED = 'rand'  # rand / fast_text
 C.LANG_INPUT = 'description'  # phrase
 
@@ -33,7 +33,7 @@ C.TRAIN.CHECKPOINT_EVERY_EPOCH = 0.5
 C.TRAIN.EVAL_EVERY_EPOCH = 0.05
 
 C.TRAIN.WEIGHT_DECAY = 1e-6
-C.TRAIN.INIT_LR = 0.000001
+C.TRAIN.INIT_LR = 0.00001
 C.TRAIN.LR_DECAY_GAMMA = 0.1
 C.TRAIN.LR_DECAY_EVAL_COUNT = 10
 C.TRAIN.EARLY_STOP_EVAL_COUNT = 40
