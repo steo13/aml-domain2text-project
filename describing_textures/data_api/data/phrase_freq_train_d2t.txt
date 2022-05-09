@@ -1,0 +1,33 @@
+single instance : 437
+no text : 402
+no texture : 394
+no shades : 259
+unrealistic : 242
+low level details : 200
+colorful shades : 178
+realistic : 172
+high level details : 161
+mid level details : 154
+mid saturation : 153
+no saturation : 135
+strong saturation : 120
+painting texture : 119
+weak saturation : 107
+semi realistic : 101
+multiple instances : 70
+monochrome : 45
+colorful background : 24
+signature : 13
+not well defined outlines : 8
+yellowscale shades : 8
+grayscale shades : 7
+generic text : 5
+defined outlines : 3
+three instances : 3
+black background : 3
+redscale shades : 3
+sharp lines : 2
+open outlines : 2
+pink background : 2
+pinkscale shades : 2
+geometric pattern : 2

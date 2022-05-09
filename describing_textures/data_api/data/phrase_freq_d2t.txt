@@ -1,0 +1,63 @@
+single instance : 437
+no text : 402
+no texture : 394
+continuous lines : 391
+close outlines : 364
+monochrome : 351
+well defined outlines : 281
+no shades : 259
+light lines : 257
+white background : 254
+precise lines : 250
+unrealistic : 242
+low level details : 200
+imprecise lines : 187
+defined outlines : 183
+colorful shades : 178
+realistic : 172
+heavy lines : 172
+colorful background : 168
+high level details : 161
+mid level details : 154
+mid saturation : 153
+no saturation : 135
+strong saturation : 120
+painting texture : 119
+weak saturation : 107
+semi realistic : 101
+detailed background : 84
+open outlines : 84
+generic text : 77
+multiple instances : 70
+broken lines : 67
+not well defined outlines : 48
+brownscale shades : 42
+two instances : 33
+dashed lines : 28
+brand : 28
+link : 28
+sharp lines : 24
+signature : 24
+blue background : 15
+bluescale shades : 15
+green background : 14
+brown background : 13
+grayscale shades : 12
+yellowscale shades : 10
+gray background : 7
+three instances : 7
+greenscale shades : 7
+black background : 5
+pink background : 3
+redscale shades : 3
+ : 3
+red background : 3
+wall background : 3
+five instances : 2
+yellow background : 2
+dotted lines : 2
+pinkscale shades : 2
+blurred background : 2
+geometric pattern : 2
+orange background : 1
+cubism pattern : 1
