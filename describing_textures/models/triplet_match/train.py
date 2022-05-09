@@ -10,8 +10,8 @@ import torch
 from torch.utils.data import DataLoader
 
 import sys
-sys.path.append('./aml-describing-textures')
-sys.path.append('./aml-describing-textures/data_api')
+sys.path.append('./aml-domain2text-project')
+sys.path.append('./aml-domain2text-project/describing_textures/data_api')
 
 from data_api.dataset_api import ImgOnlyDataset, PhraseOnlyDataset, WordEncoder
 from data_api.eval_retrieve import log_to_summary
