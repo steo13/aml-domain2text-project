@@ -6,8 +6,8 @@ import numpy as np
 from PIL import Image
 from torch.utils.data import Dataset
 
-data_path = './aml-describing-textures/data_api/data'
-img_path = './aml-describing-textures/data_api/data/images'
+data_path = './aml-domain2text-project/describing_textures/data_api/data'
+img_path = './aml-domain2text-project/describing_textures/data_api/data/images'
 
 
 ########################################################
