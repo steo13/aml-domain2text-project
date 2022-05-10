@@ -1,7 +1,5 @@
-# Advanced Machine Learning Project - Domain-To-Text 
-
-Basic code to reproduce the baselines (point 1 of the project). 
-
+# Advanced Machine Learning Project - Domain-To-Text
+ 
 ## Dataset
 
 1 - Download PACS dataset from the portal of the course in the "project_topics" folder.
