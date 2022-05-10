@@ -1,6 +1,5 @@
 import sys
 sys.path.append('../loader')
-sys.path.append('./aml-domain2text-project/datasets')
 from datasets_ import Dataset
 import torchvision.transforms as transforms
 import torch

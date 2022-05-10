@@ -3,10 +3,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 from tqdm import tqdm
 import sys
-sys.path.append('./aml-describing-textures/data_api')
 
 from dataset_api import TextureDescriptionData
-sys.path.append('./aml-describing-textures/data_api/utils')
 from retrieval_metrics import mean_reciprocal_rank, r_precision, mean_precision_at_k, mean_recall_at_k
 from retrieval_metrics import mean_average_precision
 
