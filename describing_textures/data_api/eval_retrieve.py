@@ -4,9 +4,9 @@ import matplotlib.pyplot as plt
 from tqdm import tqdm
 import sys
 
-from dataset_api import TextureDescriptionData
-from retrieval_metrics import mean_reciprocal_rank, r_precision, mean_precision_at_k, mean_recall_at_k
-from retrieval_metrics import mean_average_precision
+from data_api.dataset_api import TextureDescriptionData
+from data_api.utils.retrieval_metrics import mean_reciprocal_rank, r_precision, mean_precision_at_k, mean_recall_at_k
+from data_api.utils.retrieval_metrics import mean_average_precision
 
 plt.switch_backend('agg')
 
