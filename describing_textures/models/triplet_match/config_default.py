@@ -3,7 +3,7 @@ from yacs.config import CfgNode as CN
 C = CN()
 C.DEVICE = 'cuda'
 C.RAND_SEED = 2020
-C.OUTPUT_PATH = '/content/aml-domain2text-project/describing_textures/models/triplet_match/BEST_checkpoint.pth'
+C.OUTPUT_PATH = '/content/aml-domain2text-project/describing_textures/output/triplet_match/temp'
 C.TRAIN_SPLIT = 'train'
 C.EVAL_SPLIT = 'val'
 

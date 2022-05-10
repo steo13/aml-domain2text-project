@@ -77,7 +77,7 @@ def train():
         #si copia i pesi di word_embed e li associa al modello
         model.lang_embed.embeds.weight.data.copy_(torch.from_numpy(word_emb))
     if len(cfg.LOAD_WEIGHTS) > 0:
-        model.load_state_dict(torch.load(cfg.LOAD_WEIGHTS))
+        model.load_state_dict(torch.load(cfg.LOAD_WEIGHTS), strict=False)
 
     model.train()
     device = torch.device(cfg.DEVICE)
