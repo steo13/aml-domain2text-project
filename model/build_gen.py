@@ -1,5 +1,5 @@
 import sys
-import resnet18
+import model.resnet18 as resnet18
 
 def Generator():
     return resnet18.Feature_base()

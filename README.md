@@ -12,7 +12,11 @@ Or
 ## Pretrained models
 
 In order to reproduce the values reported in the table (see section 1 of the [project specifications](https://github.com/steo13/aml-domain2text-project/blob/main/project_specifications.pdf)), you have to:
-- Open the following link and insert the shortcut to the **outputs** folder on your drive: https://drive.google.com/drive/folders/17tWDDDPY9fRLrnL3YbwkHrilq12oii2M?usp=sharing
+- Open the following link and insert the shortcut to the **outputs** folder on your drive: https://drive.google.com/drive/folders/1mjMaP4loQtK5DB26tlv3uvn4rXmDbmk4?usp=sharing
+
+Or
+
+- Download the **outputs.zip** file from the link below and place it in a personal folder on google drive: https://drive.google.com/drive/folders/1mjMaP4loQtK5DB26tlv3uvn4rXmDbmk4?usp=sharing
 
 ## Environment
 
