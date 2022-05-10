@@ -1,10 +1,11 @@
-This is the repo for the ECCV 2020 paper "Describing Textures using Natural Language".  
-More contents are shared on [the project webpage](https://people.cs.umass.edu/~chenyun/texture/).
+## Describing Textures using Natural Language section
 
-Our collected annotations are in `data_api/data/image_desciptions.json`. `data_api` includes all basic data handling code. 
-DTD images should be put under `data_api/data/images`. They can be downloaded from [the DTD website](https://www.robots.ox.ac.uk/~vgg/data/dtd/).
+This is the section for the ECCV 2020 paper "Describing Textures using Natural Language". More contents are shared on [the project webpage](https://people.cs.umass.edu/~chenyun/texture/). This section was an ***inspiration*** as well as the ***starting point*** for the development of the project
 
-Code for training and evaluating 3 baseline models are under `models/naive_classifier/`, `models/show_attend_tell/`, `models/triplet_match` respectively. 
+Our collected annotations are in `data_api/data/image_desciptions_d2t.json`. `data_api` includes all basic data handling code. 
+PACS images should be put under `data_api/data/images`. They can be downloaded or used in connection with what is written in the [previous README.md](https://github.com/steo13/aml-domain2text-project#readme)
+
+Code for training and evaluating the ***baseline triplet_match model*** is under `models/triplet_match`.
 We also include additional application and visualization code.
 
-More documentation will be added to this repo. Feel free to contact `chenyun _AT_ cs.umass.edu` if you have any questions.
+More documentation will be added to this section. Feel free to contact `chenyun _AT_ cs.umass.edu` if you have any questions.

@@ -1,42 +1,29 @@
 # Advanced Machine Learning Project - Domain-To-Text
  
 ## Dataset
+In order to use PACS images for this project, you need to:
 
-1 - Download PACS dataset from the portal of the course in the "project_topics" folder.
+- Open the following link and insert the shortcut to the **Datasets** folder on your drive: https://drive.google.com/drive/folders/1pQlXKQSBjcBPqHQHxTl1bfgs9TRr2tk3?usp=sharing
 
-2 - Place the dataset in the DomainToText_AMLProject folder making sure that the images are organized in this way:
+Or
 
-```
-PACS/kfold/art_painting/dog/pic_001.jpg
-PACS/kfold/art_painting/dog/pic_002.jpg
-PACS/kfold/art_painting/dog/pic_003.jpg
-...
-```
+- Download the **PACS.zip** file from the link below and place it in a personal folder on google drive: https://drive.google.com/drive/folders/1pQlXKQSBjcBPqHQHxTl1bfgs9TRr2tk3?usp=sharing
 
 ## Pretrained models
 
-In order to reproduce the values reported in the table, you have to download the pretrained models from this link: https://drive.google.com/drive/folders/17tWDDDPY9fRLrnL3YbwkHrilq12oii2M?usp=sharing
-
-Then, you have to put the "outputs" folder into 
-
-```
-/DomainToText_AMLProject/
-```
-
+In order to reproduce the values reported in the table, you have to:
+- Open the following link and insert the shortcut to the **outputs** folder on your drive: https://drive.google.com/drive/folders/17tWDDDPY9fRLrnL3YbwkHrilq12oii2M?usp=sharing
 
 ## Environment
 
-To run the code you have to install all the required libraries listed in the "requirements.txt" file.
+1) All the requirements for the project are listed under the file ```requirements.txt```
+2) In the folder ```aml-domai2text-project/describing_textures``` there is the model used to get the new weights
+3) The notebook associated to the project is: https://colab.research.google.com/drive/1LyDXBj6gS-bt937Rzcgc6YWQ8zsviiTS#scrollTo=gi1t1dKcNeS2
 
-For example, if you read
-
-```
-torch==1.4.0
-```
-
-you have to execute the command:
-
-```
-pip install torch==1.4.0
-```
+## Students
+The project was developed by:
+- Stefano Rainò, s282436
+- Alberto Castrignanò, 
+- Michele Masciavè, 
+- Lorenzo Mercurio, 
 
