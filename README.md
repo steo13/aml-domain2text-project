@@ -27,7 +27,7 @@ Or
 ## Students
 The project was developed by:
 - Stefano Rainò, s282436
-- Alberto Castrignanò, 
-- Michele Masciavè, 
-- Lorenzo Mercurio, s290903
+- Alberto Castrignanò, sXXXXXX
+- Michele Masciavè, s279110
+- Lorenzo Mercurio, 
 
