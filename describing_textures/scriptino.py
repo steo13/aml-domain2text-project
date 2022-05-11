@@ -74,7 +74,7 @@ def words_freq_train (file, file_train):
 # * validation set // 15%
 # * test set // 25%
 def split(tr, te):
-    file = open('./data_api/data/image_labels_1-130.json')
+    file = open('./describing_textures/data_api/data/image_labels_1-130.json')
     data = json.load(file)
     # collect all image's 'image_name' and shuffle the array
     all = [img['image_name'] for img in data]
@@ -87,13 +87,13 @@ def split(tr, te):
         test = train.copy()
         val = train.copy()
     else:
-        test = all[int(len(all)*int(tr)):int(len(all))*int(tr+te)]
-        val = all[int(len(all))*int(tr+te):]
+        test = all[int(len(all)*tr):int(len(all)*(tr+te))]
+        val = all[int(len(all)*(tr+te)):]
     # create dictionary of 'image_name' images
     # according to the sets split
     dict = {"test": test, "val": val, "train": train}
     # write the dictionary on a json file and return
-    fd = open('./data_api/data/image_splits_d2t.json', 'w')
+    fd = open('./describing_textures/data_api/data/image_splits_d2t.json', 'w')
     fd.write(str(dict))
     fd.close()
     return json.dumps(dict)
@@ -134,28 +134,28 @@ def generate_frequencies (file):
 if __name__ == '__main__':
     # json_file = open('./data_api/data/image_descriptions_d2t.json', 'r')
     # json_file_training = open('./data_api/data/image_splits_d2t.json', 'r')
-    image_frequencies = generate_frequencies(json.load(open('./data_api/data/image_labels_1-130.json', 'r')))
-    fd = open("./data_api/data/image_frequencies.txt", "w")
+    image_frequencies = generate_frequencies(json.load(open('./describing_textures/data_api/data/image_labels_1-130.json', 'r')))
+    fd = open("./describing_textures/data_api/data/image_frequencies.txt", "w")
     for pair in image_frequencies:
         fd.write(str(pair[0])+" : "+str(pair[1])+"\n")
     fd.close()
     
-    image_descriptions = generate_descriptions(json.load(open('./data_api/data/image_labels_1-130.json', 'r')))
-    fd = open('./data_api/data/image_descriptions_d2t.json', 'w')
+    image_descriptions = generate_descriptions(json.load(open('./describing_textures/data_api/data/image_labels_1-130.json', 'r')))
+    fd = open('./describing_textures/data_api/data/image_descriptions_d2t.json', 'w')
     fd.write(str(image_descriptions))
     fd.close()
 
-    image_splits = split(1, 1)
-    fd = open('./data_api/data/image_splits_d2t.json', 'w')
+    image_splits = split(0.7, 0.2)
+    fd = open('./describing_textures/data_api/data/image_splits_d2t.json', 'w')
     fd.write(str(image_splits))
     fd.close()
 
-    data_file = json.load(open('./data_api/data/image_descriptions_d2t.json', 'r'))
-    data_file_training = json.load(open('./data_api/data/image_splits_d2t.json', 'r'))
+    data_file = json.load(open('./describing_textures/data_api/data/image_descriptions_d2t.json', 'r'))
+    data_file_training = json.load(open('./describing_textures/data_api/data/image_splits_d2t.json', 'r'))
     # write phrases frequency into a txt
     # format phrase : freq
     file_phrase_freq = phrase_freq(data_file)
-    fd = open("./data_api/data/phrase_freq_d2t.txt", "w")
+    fd = open("./describing_textures/data_api/data/phrase_freq_d2t.txt", "w")
     for pair in file_phrase_freq:
         fd.write(str(pair[0])+" : "+str(pair[1])+"\n")
     fd.close()
@@ -163,7 +163,7 @@ if __name__ == '__main__':
     # write words frequency into a txt
     # format word : freq
     file_word_freq = word_freq(data_file)
-    fd = open("./data_api/data/word_freq_d2t.txt", "w")
+    fd = open("./describing_textures/data_api/data/word_freq_d2t.txt", "w")
     for pair in file_word_freq:
         fd.write(str(pair[0])+" : "+str(pair[1])+"\n")
     fd.close()
@@ -171,7 +171,7 @@ if __name__ == '__main__':
     # write training phrases frequency into a txt
     # format phrase : freq
     file_phrase_freq_train = phrase_freq_train(data_file, data_file_training)
-    fd = open("./data_api/data/phrase_freq_train_d2t.txt", "w")
+    fd = open("./describing_textures/data_api/data/phrase_freq_train_d2t.txt", "w")
     for pair in file_phrase_freq_train:
         fd.write(str(pair[0])+" : "+str(pair[1])+"\n")
     fd.close()
@@ -179,7 +179,7 @@ if __name__ == '__main__':
     # write training words frequency into a txt
     # format word : freq
     file_words_freq_train = words_freq_train(data_file, data_file_training)
-    fd = open("./data_api/data/word_freq_train_d2t.txt", "w")
+    fd = open("./describing_textures/data_api/data/word_freq_train_d2t.txt", "w")
     for pair in file_words_freq_train:
         fd.write(str(pair[0])+" : "+str(pair[1])+"\n")
     fd.close()

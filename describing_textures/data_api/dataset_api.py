@@ -33,7 +33,7 @@ class TextureDescriptionData:
             phrase_freq_file = 'phrase_freq_d2t.txt'
         elif phrase_split == 'train':
             #phrase_freq_file = 'phrase_freq_train.txt'
-            phrase_freq_file = 'phrase_freq_d2t.txt'
+            phrase_freq_file = 'phrase_freq_train_d2t.txt'
         else:
             raise NotImplementedError
         
