@@ -29,5 +29,5 @@ The project was developed by:
 - Stefano Rainò, s282436
 - Alberto Castrignanò, 
 - Michele Masciavè, 
-- Lorenzo Mercurio, 
+- Lorenzo Mercurio, s290903
 
