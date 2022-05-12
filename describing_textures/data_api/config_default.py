@@ -2,6 +2,7 @@ from yacs.config import CfgNode as CN
 
 C = CN()
 
+C.FILE_SPLITS = 'image_splits_d2t.json'
 C.FILE_DESCRIPTIONS = 'image_descriptions_d2t.json'
 
 C.PHRASE_FREQ_FILE = 'phrase_freq.txt'

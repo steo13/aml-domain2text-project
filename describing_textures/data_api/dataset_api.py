@@ -24,7 +24,7 @@ class TextureDescriptionData:
 
         #with open(os.path.join(self.data_path, 'image_splits.json'), 'r') as f:
         # load images path beloging to the set under analysis
-        with open(os.path.join(self.data_path, cfg.FILE_DESCRIPTIONS), 'r') as f:
+        with open(os.path.join(self.data_path, cfg.FILE_SPLITS), 'r') as f:
             self.img_splits = json.load(f)
 
         # set if working on whole dataset or training set
