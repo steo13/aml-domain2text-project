@@ -33,7 +33,7 @@ class TextureDescriptionData:
         if phrase_split == 'all':
             phrase_freq_file = cfg.PHRASE_FREQ_FILE
         elif phrase_split == 'train':
-            phrase_freq_file = cfg.PHRASE_FREQ_FILE_TRAIN
+            phrase_freq_file = cfg.PHRASE_FREQ_TRAIN_FILE
         else:
             raise NotImplementedError
         
