@@ -5,10 +5,12 @@ import re
 import numpy as np
 from PIL import Image
 from torch.utils.data import Dataset
+import sys
+sys.path.append('/content/aml-domain2text-project/describing_textures')
+from data_api.config_default import C as cfg
 
 data_path = './aml-domain2text-project/describing_textures/data_api/data'
 img_path = './aml-domain2text-project/describing_textures/data_api/data/images'
-
 
 ########################################################
 ##                   DESCRIPTION DATASET              ##
@@ -22,18 +24,16 @@ class TextureDescriptionData:
 
         #with open(os.path.join(self.data_path, 'image_splits.json'), 'r') as f:
         # load images path beloging to the set under analysis
-        with open(os.path.join(self.data_path, 'image_splits_d2t.json'), 'r') as f:
+        with open(os.path.join(self.data_path, cfg.FILE_DESCRIPTIONS), 'r') as f:
             self.img_splits = json.load(f)
 
         # set if working on whole dataset or training set
         self.phrases = list()
         self.phrase_freq = list()
         if phrase_split == 'all':
-            #phrase_freq_file = 'phrase_freq.txt'
-            phrase_freq_file = 'phrase_freq_d2t.txt'
+            phrase_freq_file = cfg.PHRASE_FREQ_FILE
         elif phrase_split == 'train':
-            #phrase_freq_file = 'phrase_freq_train.txt'
-            phrase_freq_file = 'phrase_freq_train_d2t.txt'
+            phrase_freq_file = cfg.PHRASE_FREQ_FILE_TRAIN
         else:
             raise NotImplementedError
         
@@ -60,8 +60,7 @@ class TextureDescriptionData:
         # create a dictionary called 'img_data_dict' for the images like
         # {"image_name" : {phrase_ids: [id_description1, ...], ...}, ...}
         self.img_data_dict = dict()
-        #with open(os.path.join(self.data_path, 'image_descriptions.json'), 'r') as f:
-        with open(os.path.join(self.data_path, 'image_descriptions_d2t.json'), 'r') as f:
+        with open(os.path.join(self.data_path, cfg.FILE_DESCRIPTIONS), 'r') as f:
             # load data as ARRAY of objects like
             #  {
             #   "image_name": "sketch/giraffe/n02439033_10919-5.png",
@@ -403,8 +402,7 @@ class PhraseOnlyDataset(Dataset):
 # #############################################################
 
 class WordEncoder:
-    #def __init__(self, word_freq_file='word_freq_train.txt', word_freq_thresh=5, special_chars=",;/&()-'"):
-    def __init__(self, word_freq_file='word_freq_d2t.txt', word_freq_thresh=5, special_chars=",;/&()-'"):
+    def __init__(self, word_freq_file=cfg.WORD_FREQ_FILE, word_freq_thresh=5, special_chars=",;/&()-'"):
         self_path = os.path.realpath(__file__)
         self_dir = os.path.dirname(self_path)
         data_path = os.path.join(self_dir, 'data')

@@ -3,6 +3,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 from tqdm import tqdm
 import sys
+sys.path.append('/content/aml-domain2text-project/describing_textures')
+from data_api.config_default import C as cfg
 
 from data_api.dataset_api import TextureDescriptionData
 from data_api.utils.retrieval_metrics import mean_reciprocal_rank, r_precision, mean_precision_at_k, mean_recall_at_k
@@ -12,7 +14,6 @@ plt.switch_backend('agg')
 
 i2p_mode_names = ['i2p', 'img2phrase', 'img_to_phrase']
 p2i_mode_names = ['p2i', 'phrase2img', 'phrase_to_img']
-
 
 def retrieve_with_desc_eval(pred_fn, dataset=None, split='val'):
     """
@@ -95,7 +96,7 @@ def retrieve_eval(match_scores, dataset=None, split='val', mode='img2phrase',
     metrics['r_precision'] = r_precision_
     metrics['mean_average_precision'] = mean_average_precision_
 
-    for k in [5, 10, 15, 20]:
+    for k in cfg.K:
         precision_at_k_ = mean_precision_at_k(retrieve_binary_lists, k)
         recall_at_k_ = mean_recall_at_k(retrieve_binary_lists, k, gt_count=None)
         metrics['precision_at_%03d' % k] = precision_at_k_
@@ -122,7 +123,7 @@ def retrieve_eval(match_scores, dataset=None, split='val', mode='img2phrase',
 
         precisions = list()
         recalls = list()
-        for k in range(1, 20):
+        for k in range(1, cfg.K[-1]+1):
             precisions.append(mean_precision_at_k(retrieve_binary_lists, k))
             recalls.append(mean_recall_at_k(retrieve_binary_lists, k, gt_count=None))
 
@@ -163,11 +164,11 @@ def plot_precision_recall_curves(mode, precisions, recalls, visualize_path):
     axes[0].set_title('Precision-recall curve')
     axes[0].set_xlabel('Recall')
     axes[0].set_ylabel('Precision')
-    axes[1].plot(range(1, 20), recalls)
+    axes[1].plot(range(1, cfg.K[-1]+1), recalls)
     axes[1].set_title('Top-k recall')
     axes[1].set_xlabel('Top-k')
     axes[1].set_ylabel('Recall')
-    axes[2].plot(range(1, 20), precisions)
+    axes[2].plot(range(1, cfg.K[-1]+1), precisions)
     axes[2].set_title('Top-k precision')
     axes[2].set_xlabel('Top-k')
     axes[2].set_ylabel('Precision')
