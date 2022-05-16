@@ -134,7 +134,7 @@ def generate_frequencies (file):
 if __name__ == '__main__':
     # json_file = open('./data_api/data/image_descriptions_d2t.json', 'r')
     # json_file_training = open('./data_api/data/image_splits_d2t.json', 'r')
-    image_frequencies = generate_frequencies(json.load(open('./describing_textures/data_api/data/image_labels_1-130.json', 'r')))
+    image_frequencies = generate_frequencies(json.load(open('./describing_textures/data_api/data/image_labels_1-100.json', 'r')))
     fd = open("./describing_textures/data_api/data/image_frequencies.txt", "w")
     for pair in image_frequencies:
         fd.write(str(pair[0])+" : "+str(pair[1])+"\n")
