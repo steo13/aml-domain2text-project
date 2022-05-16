@@ -1,52 +1,56 @@
-no : 768
-yes : 362
-colorful : 238
-white : 199
-none : 190
-realistic : 181
-unrealistic : 171
-high-level : 164
-low-level : 162
+no text : 341
+single instance : 335
+no texture : 316
+white : 196
+no color shades : 177
+realistic : 177
+unrealistic : 172
+low-level : 159
+high-level : 159
+colorful shades : 153
 mid-level : 147
-high : 96
-mid : 80
-painting : 73
+high saturation : 96
+mid saturation : 77
+no color saturation : 76
+colorful background : 75
+painting texture : 73
 vivid colors : 59
-semi-realistic : 42
+semi-realistic : 40
 definite lines : 40
-clearly visibles : 33
+multiple instances : 37
+clearly visibles : 31
 dull colors : 29
-evident outlines : 28
-low : 26
-black and white : 26
-unprecise strokes : 25
-recognizable border : 24
-realistic shading : 24
-precise : 23
-monochrome : 21
+evident outlines : 27
+low saturation : 25
+black and white : 25
+unprecise strokes : 24
+sparse text : 23
+precise edges : 23
+recognizable border : 22
+realistic shading : 22
 light-nuance : 21
+monochrome background : 20
 trembling lines : 18
+text : 17
 very low-level : 16
 solid line : 16
 solid colors : 16
 blurred lines : 15
 different colors : 15
-body shadow : 15
-imprecise : 14
-sparse : 14
-visibles : 14
-interior : 14
+imprecise edges : 14
+visible lines : 14
+body shadow : 14
+two instances : 13
 precise brush strokes : 13
 complete body : 13
-2 : 12
+recognizable edges : 12
 clear edges : 12
 precise strokes : 12
-brownscale : 11
-recognizable : 10
+colorful and interior background : 12
+brownscale shades : 11
 not clearly visibles : 10
 solid sketchy line : 10
-face outline : 10
-sparse text : 9
+face outline : 9
 clearly visible : 8
 not clear edges : 8
 light lines : 8
@@ -54,80 +58,70 @@ many different colors : 8
 fully disproportionate : 8
 unclosed solid sketchy line : 8
 light reflections : 7
-not visibles : 7
+not visible edges : 7
 neat strokes : 7
-face : 7
 continous lines : 6
 precise lines : 6
-broken line in a stroke : 6
 definite precise brush strokes : 6
 nature : 6
 logo text : 6
+face : 6
 completely unrealistic : 5
 blurred : 5
+three instances : 5
 very high-level : 5
 definite : 5
+grayscale shades : 5
+broken line in a stroke : 5
 light outlines : 5
 signature : 5
+website text : 5
 precise neat strokes : 5
 light solid line : 5
 footer text : 5
-exterior : 5
-cutted : 5
-not recognizable : 4
+cutted image : 5
+not recognizable edges : 4
 green : 4
 unrecognizable : 4
-visible : 4
+visible edges : 4
 some features are less visible : 4
 logo texture : 4
-unclosed sketchy line : 4
+exterior : 4
 imprecise lines : 3
 broken sketch : 3
 broken line in part of it : 3
-shades of yellow : 3
 green and light blue : 3
 black : 3
-present and visible : 3
-easily visible : 3
-three : 3
-greyscale : 3
-many : 3
+present and visible edges : 3
+easily visible edges : 3
 some lines are marked : 3
 white and green : 3
 definite brush strokes : 3
 warm colors : 3
-website text : 3
 null strokes : 3
-single instance : 2
-no text : 2
+unclosed sketchy line : 3
 light stroke : 2
 edges not evident : 2
-confuse : 2
-3 : 2
-recognizable edges : 2
+confuse lines : 2
 blue : 2
 shades of brown : 2
+shades of yellow : 2
 mainly yellow : 2
 mainly green : 2
 not easily visible : 2
-not clearly visible but recognizable : 2
 not clearly recognizable : 2
 clearly recognizable : 2
-grayscale : 2
-greenscale : 2
-two : 2
+greenscale shades : 2
 imprecise strokes : 2
 broken line in a some stroke : 2
-blurry : 2
-not very visibles : 2
-many dfferent colors : 2
+blurry background : 2
+not very visible edges : 2
 different shades of brown : 2
 broken abstract line : 2
 smudges of color : 2
 undefined brush strokes : 2
 neat brush strokes : 2
 sky : 2
-website : 2
 strong-nuance : 2
 precise neat brush strokes : 2
 precise light-nuance : 2
@@ -141,9 +135,8 @@ well defined outlines : 1
 open outlines : 1
 heavy lines : 1
 no saturation : 1
-no shades : 1
 white background : 1
-no texture : 1
+monochrome : 1
 lines not evident : 1
 dashed at times : 1
 good semi-realistic sketch : 1
@@ -185,7 +178,6 @@ zigzag lines : 1
 brown : 1
 white with shades of grey : 1
 confused and unrecognizable : 1
-mid evel : 1
 shades of grey and green : 1
 obvious lines : 1
 not always recognizable : 1
@@ -198,7 +190,7 @@ not visible : 1
 unrecognizable and unmarked : 1
 clear and precise edges : 1
 cream color with a black pattern : 1
-5 : 1
+five instances : 1
 with blue shades : 1
 clear edges and correct edges : 1
 white with blue shades : 1
@@ -224,7 +216,8 @@ shades of green : 1
 mainly shades of grey : 1
 not clearly visible : 1
 mainly green and grey : 1
-not clearly visible and not recognizable : 1
+not clearly visible and not recognizable edges : 1
+not clearly visible but recognizable : 1
 clearly visible and recognizable : 1
 mainly grey and yellow : 1
 mainly brown and white : 1
@@ -239,6 +232,7 @@ dark : 1
 almost two : 1
 bluescale : 1
 precie : 1
+background not easily recognizable : 1
 giraffe : 1
 trembling : 1
 indefinite strokes : 1
@@ -269,15 +263,13 @@ but overlayed in some strokes : 1
 grey : 1
 white and different shades of light-blue : 1
 light-brown : 1
+many dfferent colors : 1
 green and light-blue : 1
 different shades of blue : 1
 different shades of blue and green : 1
 high level details : 1
 defined outlines : 1
 weak saturation : 1
-colorful shades : 1
-colorful background : 1
-painting texture : 1
 overlayed in some strokes : 1
 many different coloros : 1
 pink and light blue : 1
@@ -291,19 +283,20 @@ strong vivid colors : 1
 monochrome red : 1
 definite neat brush strokes : 1
 monochrome brickwall : 1
-4 : 1
-nos : 1
+four instances : 1
 neat undefined brush strokes : 1
 unrealistic nature : 1
 precise definite brush strokes : 1
-8 : 1
-yes/unrealistic : 1
+eight instances : 1
+colorful : 1
 neat precise brush strokes : 1
 bull colors : 1
+no background : 1
 light precise brush strokes : 1
 light definite brush strokes : 1
 neat nuances : 1
 faded colors : 1
+mid : 1
 light undefined brush strokes : 1
 light brush strokes : 1
 vivid cold colors : 1
@@ -315,7 +308,7 @@ definite neat strokes : 1
 signature text : 1
 colorful musical notes : 1
 overlapping figures : 1
-yes/how many : 1
+single instance/how many : 1
 dense text : 1
 neat precise strokes : 1
 logo textture : 1
@@ -324,6 +317,7 @@ solid color : 1
 partially recognizable border : 1
 cold colors : 1
 red : 1
+interior : 1
 header text : 1
 dashed sketchy line : 1
 unclosed twisted sketchy line : 1
