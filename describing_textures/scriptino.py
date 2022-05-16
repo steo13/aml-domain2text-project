@@ -1,6 +1,8 @@
 import json
 import random
 
+IMAGE_LABELS = './describing_textures/data_api/data/image_labels_1-100.json'
+
 # Count phrases frequency
 # * return couples (phrase, count)
 def phrase_freq(file):
@@ -74,7 +76,7 @@ def words_freq_train (file, file_train):
 # * validation set // 15%
 # * test set // 25%
 def split(tr, te):
-    file = open('./describing_textures/data_api/data/image_labels_1-100.json')
+    file = open(IMAGE_LABELS)
     data = json.load(file)
     # collect all image's 'image_name' and shuffle the array
     all = [img['image_name'] for img in data]
@@ -136,13 +138,13 @@ def generate_frequencies (file):
 if __name__ == '__main__':
     # json_file = open('./data_api/data/image_descriptions_d2t.json', 'r')
     # json_file_training = open('./data_api/data/image_splits_d2t.json', 'r')
-    image_frequencies = generate_frequencies(json.load(open('./describing_textures/data_api/data/image_labels_1-100.json', 'r')))
+    image_frequencies = generate_frequencies(json.load(open(IMAGE_LABELS, 'r')))
     fd = open("./describing_textures/data_api/data/image_frequencies.txt", "w")
     for pair in image_frequencies:
         fd.write(str(pair[0])+" : "+str(pair[1])+"\n")
     fd.close()
     
-    image_descriptions = generate_descriptions(json.load(open('./describing_textures/data_api/data/image_labels_1-130.json', 'r')))
+    image_descriptions = generate_descriptions(json.load(open(IMAGE_LABELS, 'r')))
     fd = open('./describing_textures/data_api/data/image_descriptions_d2t.json', 'w')
     fd.write(str(image_descriptions))
     fd.close()
