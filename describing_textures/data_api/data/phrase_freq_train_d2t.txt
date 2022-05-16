@@ -1,30 +1,37 @@
-single instance : 305
-no text : 284
-no texture : 277
-no shades : 192
-unrealistic : 180
-low level details : 154
-colorful shades : 118
-realistic : 114
-high level details : 109
-mid saturation : 104
-no saturation : 101
-mid level details : 97
-painting texture : 82
-weak saturation : 80
-strong saturation : 75
-monochrome : 67
-semi realistic : 66
-multiple instances : 50
-colorful background : 17
-signature : 10
-not well defined outlines : 6
+single instance : 237
+no text : 214
+no texture : 209
+unrealistic : 130
+colorful shades : 116
+low level details : 115
+no shades : 107
+realistic : 93
+mid saturation : 90
+mid level details : 82
+high level details : 81
+strong saturation : 74
+no saturation : 70
+painting texture : 68
+semi realistic : 55
+weak saturation : 44
+colorful background : 41
+multiple instances : 34
+detailed background : 19
+signature : 12
+brownscale shades : 12
+monochrome : 9
+defined outlines : 8
+two instances : 7
+bluescale shades : 7
 yellowscale shades : 6
-generic text : 5
-grayscale shades : 4
-well defined outlines : 4
-bluescale shades : 4
-defined outlines : 3
-three instances : 3
-pink background : 2
+not well defined outlines : 5
+grayscale shades : 5
+generic text : 4
+black background : 3
+broken lines : 2
+brown background : 2
+sharp lines : 2
+well defined outlines : 2
+three instances : 2
+redscale shades : 2
 pinkscale shades : 2

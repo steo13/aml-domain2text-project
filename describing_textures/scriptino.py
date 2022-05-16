@@ -74,7 +74,7 @@ def words_freq_train (file, file_train):
 # * validation set // 15%
 # * test set // 25%
 def split(tr, te):
-    file = open('./describing_textures/data_api/data/image_labels_1-130.json')
+    file = open('./describing_textures/data_api/data/image_labels_1-100.json')
     data = json.load(file)
     # collect all image's 'image_name' and shuffle the array
     all = [img['image_name'] for img in data]
@@ -92,6 +92,8 @@ def split(tr, te):
     # create dictionary of 'image_name' images
     # according to the sets split
     dict = {"test": test, "val": val, "train": train}
+
+    print(len(dict['train']))
     # write the dictionary on a json file and return
     fd = open('./describing_textures/data_api/data/image_splits_d2t.json', 'w')
     fd.write(str(dict))
