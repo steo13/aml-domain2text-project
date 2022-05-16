@@ -13,9 +13,9 @@ PHRASE_FREQUENCY_TRAINING = './describing_textures/data_api/data/phrase_freq_tra
 WORD_FREQUENCY_TRAINING = './describing_textures/data_api/data/word_freq_train_d2t.txt'
 
 # Percentage of the split for the dataset images
-TRAIN = 0.7
-TEST = 0.2
-VAL = 0.1
+TRAIN = 1
+TEST = 0
+VAL = 0
 
 # Count phrases frequency
 # * return couples (phrase, count)
@@ -147,7 +147,7 @@ if __name__ == '__main__':
     fd.write(str(image_descriptions))
     fd.close()
 
-    image_splits = generate_splits(0.7, 0.2, 0.1)
+    image_splits = generate_splits(TRAIN, TEST, VAL)
     fd = open(IMAGE_SPLITS, 'w')
     fd.write(str(image_splits))
     fd.close()
