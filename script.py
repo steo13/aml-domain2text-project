@@ -3,7 +3,7 @@ import random
 from math import isclose
 
 # Path for all the files
-IMAGE_LABELS = './describing_textures/data_api/data/image_labels_1-100.json'
+IMAGE_LABELS = './describing_textures/data_api/data/image_labels_1-100_ORIGINALE.json'
 IMAGE_FREQUENCIES = './describing_textures/data_api/data/image_frequencies.txt'
 IMAGE_DESCRIPTIONS = './describing_textures/data_api/data/image_descriptions_d2t.json'
 IMAGE_SPLITS = './describing_textures/data_api/data/image_splits_d2t.json'
