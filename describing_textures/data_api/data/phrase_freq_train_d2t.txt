@@ -1,17 +1,16 @@
-no : 768
+no : 958
 yes : 362
 colorful : 238
-none : 190
 realistic : 181
 unrealistic : 171
-high-level : 164
-low-level : 162
-mid-level : 147
+high level : 164
+low level : 162
+mid level : 147
 high : 96
 mid : 80
 painting : 73
 white : 58
-semi-realistic : 42
+semi realistic : 42
 clearly visibles : 33
 evident outlines : 28
 low : 26
@@ -22,11 +21,11 @@ realistic shading : 24
 precise : 23
 monochrome : 21
 light-nuance : 21
-very low-level : 16
+very low level : 16
+two : 14
 imprecise : 14
 sparse : 14
 visibles : 14
-2 : 12
 precise strokes : 12
 brownscale : 11
 recognizable : 10
@@ -40,7 +39,8 @@ not visibles : 7
 neat strokes : 7
 definite precise brush strokes : 6
 completely unrealistic : 5
-very high-level : 5
+three : 5
+very high level : 5
 definite : 5
 light outlines : 5
 signature : 5
@@ -56,7 +56,6 @@ green and light blue : 3
 black : 3
 present and visible : 3
 easily visible : 3
-three : 3
 greyscale : 3
 many : 3
 white and green : 3
@@ -68,7 +67,6 @@ no text : 2
 precise lines : 2
 light stroke : 2
 green : 2
-3 : 2
 recognizable edges : 2
 blue : 2
 shades of brown : 2
@@ -78,7 +76,6 @@ not clearly recognizable : 2
 clearly recognizable : 2
 grayscale : 2
 greenscale : 2
-two : 2
 imprecise strokes : 2
 blurry : 2
 not very visibles : 2
@@ -104,7 +101,7 @@ white background : 1
 no texture : 1
 lines not evident : 1
 dashed at times : 1
-good semi-realistic sketch : 1
+good semi realistic sketch : 1
 broken line at intervals : 1
 broken line in part of it : 1
 dashed line : 1
@@ -141,7 +138,7 @@ shades of yellow and grey : 1
 line interrupted in a certain section : 1
 fuzzy lines : 1
 clear lines : 1
-semi-colorful : 1
+semi colorful : 1
 white with shades of grey and green : 1
 zigzag lines : 1
 brown : 1
@@ -162,7 +159,7 @@ unrecognizable and unmarked : 1
 clear and precise edges : 1
 not clear edges : 1
 cream color with a black pattern : 1
-5 : 1
+five : 1
 clear edges : 1
 with blue shades : 1
 clear edges and correct edges : 1
@@ -270,14 +267,14 @@ monochrome red : 1
 undefined brush strokes : 1
 definite neat brush strokes : 1
 monochrome brickwall : 1
-4 : 1
+four : 1
 nature : 1
 nos : 1
 neat undefined brush strokes : 1
 unrealistic nature : 1
 precise definite brush strokes : 1
 sky : 1
-8 : 1
+eight : 1
 yes/unrealistic : 1
 neat precise brush strokes : 1
 bull colors : 1
