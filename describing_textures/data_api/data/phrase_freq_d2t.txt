@@ -1,27 +1,27 @@
-no text : 341
+without text : 341
 single instance : 335
-no texture : 316
+without texture : 316
 white : 196
 no color shades : 177
-realistic : 177
-unrealistic : 172
-low-level : 159
-high-level : 159
+realistic perspective : 177
+unrealistic perspective : 172
+low-level details : 154
 colorful shades : 153
-mid-level : 147
-high saturation : 96
-mid saturation : 77
+high saturation : 151
+mid-level details : 114
+mid saturation : 110
+high-level details : 102
 no color saturation : 76
 colorful background : 75
 painting texture : 73
 vivid colors : 59
-semi-realistic : 40
+semi-realistic perspective : 40
 definite lines : 40
 multiple instances : 37
 clearly visibles : 31
+low saturation : 30
 dull colors : 29
 evident outlines : 27
-low saturation : 25
 black and white : 25
 unprecise strokes : 24
 sparse text : 23
@@ -31,8 +31,8 @@ realistic shading : 22
 light-nuance : 21
 monochrome background : 20
 trembling lines : 18
-text : 17
-very low-level : 16
+with text : 17
+very low-level details : 16
 solid line : 16
 solid colors : 16
 blurred lines : 15
@@ -66,10 +66,9 @@ definite precise brush strokes : 6
 nature : 6
 logo text : 6
 face : 6
-completely unrealistic : 5
+completely unrealistic perspective : 5
 blurred : 5
 three instances : 5
-very high-level : 5
 definite : 5
 grayscale shades : 5
 broken line in a stroke : 5
@@ -83,6 +82,7 @@ cutted image : 5
 not recognizable edges : 4
 green : 4
 unrecognizable : 4
+very high-level details : 4
 visible edges : 4
 some features are less visible : 4
 logo texture : 4
@@ -127,6 +127,7 @@ precise neat brush strokes : 2
 precise light-nuance : 2
 definite strokes : 2
 exterior nature : 2
+high-level : 2
 confused unprecise strokes : 2
 complte body : 2
 cutted body : 2
@@ -179,6 +180,7 @@ brown : 1
 white with shades of grey : 1
 confused and unrecognizable : 1
 shades of grey and green : 1
+very high saturation : 1
 obvious lines : 1
 not always recognizable : 1
 shades of blue : 1
@@ -300,7 +302,7 @@ mid : 1
 light undefined brush strokes : 1
 light brush strokes : 1
 vivid cold colors : 1
-fully realistic : 1
+fully realistic perspective : 1
 sketchy line : 1
 neat definite strokes : 1
 solid cold colors : 1
