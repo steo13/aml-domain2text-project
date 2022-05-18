@@ -11,7 +11,7 @@
 	"perspective": "unrealistic perspective"},
 {
 	"image_name": "sketch/horse/n02374451_1234-2.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "evident outlines, precise lines",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -22,7 +22,7 @@
 	"perspective": "unrealistic perspective"},
 {
 	"image_name": "sketch/dog/5290.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "lines not evident, dashed at times",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -33,7 +33,7 @@
 	"perspective": "unrealistic perspective"},
 {
 	"image_name": "sketch/elephant/n02503517_10778-1.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "evident outlines, precise lines",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -44,7 +44,7 @@
 	"perspective": "good semi-realistic sketch"},
 {
 	"image_name": "sketch/elephant/n02503517_1453-3.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "evident outlines",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -55,7 +55,7 @@
 	"perspective": "unrealistic perspective"},
 {
 	"image_name": "sketch/guitar/n02676566_6631-1.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "evident outlines",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -66,7 +66,7 @@
 	"perspective": "unrealistic perspective"},
 {
 	"image_name": "sketch/elephant/n02503517_6232-3.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "broken line at intervals",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -77,7 +77,7 @@
 	"perspective": "unrealistic perspective"},
 {
 	"image_name": "sketch/elephant/n02503517_1583-5.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "broken sketch, broken line in part of it",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -88,7 +88,7 @@
 	"perspective": "unrealistic perspective"},
 {
 	"image_name": "sketch/dog/n02103406_865-6.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "evident outlines, precise lines",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -99,7 +99,7 @@
 	"perspective": "unrealistic perspective"},
 {
 	"image_name": "sketch/elephant/n02503517_9043-10.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "broken sketch, broken line in part of it",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -110,7 +110,7 @@
 	"perspective": "unrealistic perspective"},
 {
 	"image_name": "sketch/dog/5299.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "dashed line",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -121,7 +121,7 @@
 	"perspective": "unrealistic perspective"},
 {
 	"image_name": "sketch/dog/n02103406_8421-2.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "broken sketch, broken line in part of it",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -132,7 +132,7 @@
 	"perspective": "unrealistic perspective"},
 {	
 	"image_name": "sketch/elephant/n02503517_10440-2.png",
-	"details": "very low-level details",
+	"details": "very low level details",
 	"edges": "evident outlines",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -143,7 +143,7 @@
 	"perspective": "completely unrealistic perspective"},
 {
 	"image_name": "sketch/dog/n02103406_6530-5.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "confused features, outline not evident",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -154,7 +154,7 @@
 	"perspective": "unrealistic perspective"},
 {
 	"image_name": "sketch/giraffe/n02439033_11599-1.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "dashed edges, interrupted sketch",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -165,7 +165,7 @@
 	"perspective": "semi-realistic perspective"},
 {
 	"image_name": "sketch/elephant/n02503517_10778-2.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "broken line in part of the sketch",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -176,7 +176,7 @@
 	"perspective": "unrealistic perspective"},
 {
 	"image_name": "sketch/dog/5339.png",
-	"details": "very low-level details",
+	"details": "very low level details",
 	"edges": "light stroke, edges not evident",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -187,7 +187,7 @@
 	"perspective": "completely unrealistic perspective"},
 {
 	"image_name": "sketch/elephant/5948.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "light stroke, edges not evident",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -198,7 +198,7 @@
 	"perspective": "unrealistic perspective"},
 {
 	"image_name": "sketch/giraffe/n02439033_6552-4.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "evident line, continuous edges",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -209,7 +209,7 @@
 	"perspective": "unrealistic perspective"},
 {
 	"image_name": "sketch/dog/n02106662_25917-1.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "evident edges, discontinuous line in some parts",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -220,7 +220,7 @@
 	"perspective": "unrealistic perspective"}, 
 {
 	"image_name": "sketch/elephant/n02503517_7020-6.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "discontinuous line in half",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -231,7 +231,7 @@
 	"perspective": "unrealistic perspective"}, 
 {
 	"image_name": "sketch/guitar/n02676566_7385-4.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "edges and lines not evident and confusing",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -242,7 +242,7 @@
 	"perspective": "unrealistic perspective"},
 {
 	"image_name": "sketch/guitar/n02676566_6150-5.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "evident and marked edges",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -253,7 +253,7 @@
 	"perspective": "unrealistic perspective"},
 {
 	"image_name": "sketch/guitar/n02676566_8820-4.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "sharp edges, broken line",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -264,8 +264,8 @@
 	"perspective": "unrealistic perspective"}, 
 {
 	"image_name": "sketch/giraffe/n02439033_10802-7.png",
-	"details": "low-level details",
-	"edges": "bordi evidenti, non completi",
+	"details": "low level details",
+	"edges": "evident borders, not completed",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
 	"background": "white",
@@ -275,7 +275,7 @@
 	"perspective": "unrealistic perspective"},
 {
 	"image_name": "art_painting/dog/pic_152.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "not noticeable, blurred",
 	"color_saturation": "high saturation, bright colors",
 	"color_shades": "colorful shades",
@@ -286,7 +286,7 @@
 	"perspective": "semi-realistic perspective"},
 {
 	"image_name": "art_painting/person/pic_406.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "not recognizable edges, confuse lines",
 	"color_saturation": "mid saturation",
 	"color_shades": "colorful shades",
@@ -297,7 +297,7 @@
 	"perspective": "unrealistic perspective"}, 
 {
 	"image_name": "art_painting/house/pic_104.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "not recognizable edges, confuse lines",
 	"color_saturation": "high saturation, bright and vivid colors",
 	"color_shades": "colorful shades",
@@ -308,7 +308,7 @@
 	"perspective": "unrealistic perspective"},
 {
 	"image_name": "art_painting/dog/pic_285.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "blurred but visible",
 	"color_saturation": "mid saturation",
 	"color_shades": "colorful shades",
@@ -319,7 +319,7 @@
 	"perspective": "realistic perspective"},
 {
 	"image_name": "art_painting/person/pic_423.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "not recognizable edges, not marked",
 	"color_saturation": "low saturation",
 	"color_shades": "colorful shades",
@@ -330,7 +330,7 @@
 	"perspective": "unrealistic perspective"},
 {
 	"image_name": "art_painting/dog/pic_353.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "recognizable edges, not too marked",
 	"color_saturation": "high saturation",
 	"color_shades": "colorful shades",
@@ -341,7 +341,7 @@
 	"perspective": "semi-realistic perspective"},
 {
 	"image_name": "art_painting/elephant/pic_192.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "recognizable edges, interrupted at times",
 	"color_saturation": "high saturation",
 	"color_shades": "colorful shades",
@@ -352,7 +352,7 @@
 	"perspective": "semi-realistic perspective"},
 {
 	"image_name": "art_painting/person/pic_010.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "uncertain line, recognizable edges",
 	"color_saturation": "mid saturation",
 	"color_shades": "colorful shades",
@@ -363,7 +363,7 @@
 	"perspective": "semi-realistic perspective"},
 {
 	"image_name": "art_painting/dog/pic_042.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "recognizable edges, line interrupted in a certain section",
 	"color_saturation": "high saturation",
 	"color_shades": "colorful shades",
@@ -374,7 +374,7 @@
 	"perspective": "semi-realistic perspective"}, 
 {
 	"image_name": "art_painting/dog/pic_234.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "unrecognizable, fuzzy lines",
 	"color_saturation": "high saturation",
 	"color_shades": "colorful shades",
@@ -385,7 +385,7 @@
 	"perspective": "unrealistic perspective"},
 {
 	"image_name": "art_painting/elephant/pic_133.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "unrecognizable, clear lines",
 	"color_saturation": "low saturation",
 	"color_shades": "semi-colorful",
@@ -396,7 +396,7 @@
 	"perspective": "semi-realistic perspective"},
 {
 	"image_name": "art_painting/dog/pic_067.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "recognizable edges, zigzag lines",
 	"color_saturation": "mid saturation",
 	"color_shades": "colorful shades",
@@ -407,7 +407,7 @@
 	"perspective": "realistic perspective"},
 {
 	"image_name": "art_painting/elephant/pic_243.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "recognizable edges",
 	"color_saturation": "low saturation",
 	"color_shades": "colorful shades",
@@ -418,7 +418,7 @@
 	"perspective": "semi-realistic perspective"},
 {
 	"image_name": "art_painting/giraffe/pic_075.jpg",
-	"details": "very low-level details",
+	"details": "very low level details",
 	"edges": "confused and unrecognizable",
 	"color_saturation": "high saturation",
 	"color_shades": "colorful shades",
@@ -429,7 +429,7 @@
 	"perspective": "unrealistic perspective"}, 
 {
 	"image_name": "art_painting/person/pic_114.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "recognizable edges, precise lines",
 	"color_saturation": "mid saturation",
 	"color_shades": "colorful shades",
@@ -440,7 +440,7 @@
 	"perspective": "realistic perspective"},
 {
 	"image_name": "art_painting/horse/pic_151.jpg",
-	"details": "very high-level details",
+	"details": "very high level details",
 	"edges": "recognizable edges, precise lines",
 	"color_saturation": "mid saturation",
 	"color_shades": "colorful shades",
@@ -451,7 +451,7 @@
 	"perspective": "realistic perspective"},
 {
 	"image_name": "art_painting/dog/pic_191.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "unrecognizable",
 	"color_saturation": "very high saturation",
 	"color_shades": "colorful shades",
@@ -462,7 +462,7 @@
 	"perspective": "unrealistic perspective"},
 {
 	"image_name": "art_painting/person/pic_234.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "recognizable edges, obvious lines",
 	"color_saturation": "mid saturation",
 	"color_shades": "colorful shades",
@@ -473,7 +473,7 @@
 	"perspective": "semi-realistic perspective"},
 {
 	"image_name": "art_painting/person/pic_519.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "not always recognizable, blurred lines",
 	"color_saturation": "mid saturation",
 	"color_shades": "colorful shades",
@@ -484,7 +484,7 @@
 	"perspective": "semi-realistic perspective"},
 {
 	"image_name": "art_painting/giraffe/pic_025.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "clearly visible",
 	"color_saturation": "high saturation",
 	"color_shades": "colorful shades",
@@ -495,7 +495,7 @@
 	"perspective": "unrealistic perspective"},
 {
 	"image_name": "art_painting/horse/pic_212.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "not recognizable edges",
 	"color_saturation": "high saturation",
 	"color_shades": "colorful shades",
@@ -506,7 +506,7 @@
 	"perspective": "semi-realistic perspective"},
 {
 	"image_name": "art_painting/giraffe/pic_306.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "confused and not visible",
 	"color_saturation": "high saturation",
 	"color_shades": "colorful shades",
@@ -517,7 +517,7 @@
 	"perspective": "unrealistic perspective"},
 {
 	"image_name": "art_painting/giraffe/pic_182.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "visible edges, but not marked",
 	"color_saturation": "low saturation",
 	"color_shades": "colorful shades",
@@ -528,7 +528,7 @@
 	"perspective": "unrealistic perspective"},
 {
 	"image_name": "art_painting/elephant/pic_100.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "not visible",
 	"color_saturation": "high saturation",
 	"color_shades": "colorful shades",
@@ -539,7 +539,7 @@
 	"perspective": "unrealistic perspective"},
 {
 	"image_name": "art_painting/elephant/pic_190.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "unrecognizable and unmarked",
 	"color_saturation": "mid saturation",
 	"color_shades": "colorful shades",
@@ -550,7 +550,7 @@
 	"perspective": "semi-realistic perspective"},
 {
 	"image_name": "cartoon/giraffe/pic_187.jpg",
-	"details": "very high-level details",
+	"details": "very high level details",
 	"edges": "clear and precise edges",
 	"color_saturation": "high saturation",
 	"color_shades": "colorful shades",
@@ -561,7 +561,7 @@
 	"perspective": "semi-realistic perspective"},
 {
 	"image_name": "cartoon/elephant/pic_498.jpg",
-	"details": "very low-level details",
+	"details": "very low level details",
 	"edges": "not clear edges",
 	"color_saturation": "high saturation",
 	"color_shades": "colorful shades",
@@ -572,7 +572,7 @@
 	"perspective": "completely unrealistic perspective"}, 
 {
 	"image_name": "cartoon/dog/pic_151.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "clear edges, continous lines",
 	"color_saturation": "low saturation",
 	"color_shades": "colorful shades",
@@ -583,7 +583,7 @@
 	"perspective": "unrealistic perspective"}, 
 {
 	"image_name": "cartoon/dog/pic_367.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "clear edges, continous lines",
 	"color_saturation": "high saturation",
 	"color_shades": "colorful shades",
@@ -594,7 +594,7 @@
 	"perspective": "unrealistic perspective"},
 {
 	"image_name": "cartoon/house/pic_353.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "clear edges, continous lines",
 	"color_saturation": "high saturation",
 	"color_shades": "colorful shades",
@@ -605,7 +605,7 @@
 	"perspective": "unrealistic perspective"},
 {
 	"image_name": "cartoon/elephant/pic_070.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "clear edges, continous lines",
 	"color_saturation": "high saturation",
 	"color_shades": "colorful shades",
@@ -616,7 +616,7 @@
 	"perspective": "unrealistic perspective"},
 {
 	"image_name": "cartoon/house/pic_134.jpg",
-	"details": "very high-level details",
+	"details": "very high level details",
 	"edges": "clear edges and correct edges",
 	"color_saturation": "high saturation",
 	"color_shades": "colorful shades",
@@ -627,7 +627,7 @@
 	"perspective": "semi-realistic perspective"},
 {
 	"image_name": "cartoon/house/pic_187.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "not clear edges, continius lines",
 	"color_saturation": "high saturation",
 	"color_shades": "colorful shades",
@@ -638,7 +638,7 @@
 	"perspective": "unrealistic perspective"},
 {
 	"image_name": "cartoon/elephant/pic_152.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "not clear edges, small lines",
 	"color_saturation": "low saturation",
 	"color_shades": "colorful shades",
@@ -649,7 +649,7 @@
 	"perspective": "unrealistic perspective"},
 {
 	"image_name": "cartoon/person/pic_075.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "clear edges",
 	"color_saturation": "high saturation",
 	"color_shades": "colorful shades",
@@ -660,7 +660,7 @@
 	"perspective": "unrealistic perspective"},
 {
 	"image_name": "cartoon/dog/pic_056.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "not clear edges, small and broken lines",
 	"color_saturation": "high saturation",
 	"color_shades": "colorful shades",
@@ -671,7 +671,7 @@
 	"perspective": "semi-realistic perspective"},
 {
 	"image_name": "cartoon/person/pic_358.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "not clear edges, bold lines",
 	"color_saturation": "mid saturation",
 	"color_shades": "colorful shades",
@@ -682,7 +682,7 @@
 	"perspective": "semi-realistic perspective"},
 {
 	"image_name": "cartoon/giraffe/pic_060.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "clear edges",
 	"color_saturation": "high saturation",
 	"color_shades": "colorful shades",
@@ -693,7 +693,7 @@
 	"perspective": "unrealistic perspective"},
 {
 	"image_name": "cartoon/person/pic_095.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "not clear edges, light lines",
 	"color_saturation": "low saturation",
 	"color_shades": "colorful shades",
@@ -704,7 +704,7 @@
 	"perspective": "unrealistic perspective"}, 
 {
 	"image_name": "cartoon/giraffe/pic_295.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "not clear edges",
 	"color_saturation": "mid saturation",
 	"color_shades": "colorful shades",
@@ -715,7 +715,7 @@
 	"perspective": "completely unrealistic perspective"},
 {
 	"image_name": "cartoon/elephant/pic_026.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "clear edges",
 	"color_saturation": "mid saturation",
 	"color_shades": "colorful shades",
@@ -726,7 +726,7 @@
 	"perspective": "unrealistic perspective"},
 {
 	"image_name": "cartoon/dog/pic_323.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "clear edges and light edges",
 	"color_saturation": "mid saturation",
 	"color_shades": "colorful shades",
@@ -737,7 +737,7 @@
 	"perspective": "semi-realistic perspective"},
 {
 	"image_name": "cartoon/house/pic_025.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "light edges",
 	"color_saturation": "low saturation",
 	"color_shades": "colorful shades",
@@ -748,7 +748,7 @@
 	"perspective": "unrealistic perspective"}, 
 {
 	"image_name": "cartoon/person/pic_101.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "stong edges",
 	"color_saturation": "high saturation",
 	"color_shades": "colorful shades",
@@ -759,7 +759,7 @@
 	"perspective": "unrealistic perspective"}, 
 {
 	"image_name": "cartoon/giraffe/pic_047.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "light lines, clear edges",
 	"color_saturation": "low saturation",
 	"color_shades": "colorful shades",
@@ -770,7 +770,7 @@
 	"perspective": "unrealistic perspective"},
 {
 	"image_name": "cartoon/horse/pic_070.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "light lines, clear edges",
 	"color_saturation": "mid saturation",
 	"color_shades": "colorful shades",
@@ -781,7 +781,7 @@
 	"perspective": "unrealistic perspective"},
 {
 	"image_name": "cartoon/house/pic_189.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "light lines, not clear edges",
 	"color_saturation": "mid saturation",
 	"color_shades": "colorful shades",
@@ -792,7 +792,7 @@
 	"perspective": "unrealistic perspective"},
 {
 	"image_name": "cartoon/horse/pic_140.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "light lines, clear edges",
 	"color_saturation": "mid saturation",
 	"color_shades": "colorful shades",
@@ -803,7 +803,7 @@
 	"perspective": "unrealistic perspective"},
 {
 	"image_name": "cartoon/dog/pic_086.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "light lines, clear edges",
 	"color_saturation": "mid saturation",
 	"color_shades": "colorful shades",
@@ -814,7 +814,7 @@
 	"perspective": "unrealistic perspective"}, 
 {
 	"image_name": "cartoon/giraffe/pic_215.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "light lines, clear edges",
 	"color_saturation": "low saturation",
 	"color_shades": "colorful shades",
@@ -825,7 +825,7 @@
 	"perspective": "completely unrealistic perspective"},
 {
 	"image_name": "photo/elephant/n02503517_2061.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "clearly visible",
 	"color_saturation": "mid saturation",
 	"color_shades": "colorful shades",
@@ -836,7 +836,7 @@
 	"perspective": "realistic perspective"},
 {
 	"image_name": "photo/person/253_0398.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "present and visible edges",
 	"color_saturation": "mid saturation",
 	"color_shades": "colorful shades",
@@ -847,7 +847,7 @@
 	"perspective": "realistic perspective"},
 {
 	"image_name": "photo/guitar/n03272010_9858.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "present and visible edges",
 	"color_saturation": "high saturation",
 	"color_shades": "colorful shades",
@@ -858,7 +858,7 @@
 	"perspective": "realistic perspective"},
 {
 	"image_name": "photo/person/253_0289.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "present and visible edges",
 	"color_saturation": "high saturation",
 	"color_shades": "colorful shades",
@@ -869,7 +869,7 @@
 	"perspective": "realistic perspective"},
 {
 	"image_name": "photo/house/pic_051.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "easily visible but sometimes hidden",
 	"color_saturation": "mid saturation",
 	"color_shades": "colorful shades",
@@ -880,7 +880,7 @@
 	"perspective": "realistic perspective"},
 {
 	"image_name": "photo/dog/056_0066.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "easily visible edges",
 	"color_saturation": "mid saturation",
 	"color_shades": "colorful shades",
@@ -891,7 +891,7 @@
 	"perspective": "realistic perspective"},
 {
 	"image_name": "photo/giraffe/084_0008.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "not easily recognizable",
 	"color_saturation": "low saturation",
 	"color_shades": "colorful shades",
@@ -902,7 +902,7 @@
 	"perspective": "realistic perspective"},
 {
 	"image_name": "photo/person/253_0348.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "easily visible edges",
 	"color_saturation": "mid saturation",
 	"color_shades": "colorful shades",
@@ -913,7 +913,7 @@
 	"perspective": "realistic perspective"},
 {
 	"image_name": "photo/horse/n02374451_262.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "easily visible edges",
 	"color_saturation": "high saturation",
 	"color_shades": "colorful shades",
@@ -924,7 +924,7 @@
 	"perspective": "realistic perspective"},
 {
 	"image_name": "photo/elephant/n02503517_10193.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "recognizable edges, not easily visible",
 	"color_saturation": "mid saturation",
 	"color_shades": "colorful shades",
@@ -935,7 +935,7 @@
 	"perspective": "realistic perspective"},
 {
 	"image_name": "photo/elephant/n02503517_1415.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "recognizable edges",
 	"color_saturation": "mid saturation",
 	"color_shades": "colorful shades",
@@ -946,7 +946,7 @@
 	"perspective": "realistic perspective"},
 {
 	"image_name": "photo/horse/105_0185.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "unrecognizable, broken lines",
 	"color_saturation": "mid saturation",
 	"color_shades": "no color shades",
@@ -957,7 +957,7 @@
 	"perspective": "realistic perspective"},
 {
 	"image_name": "photo/horse/n02374451_18192.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "clearly visible",
 	"color_saturation": "mid saturation",
 	"color_shades": "colorful shades",
@@ -968,7 +968,7 @@
 	"perspective": "realistic perspective"},
 {
 	"image_name": "photo/person/253_0018.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "clearly visible",
 	"color_saturation": "mid saturation",
 	"color_shades": "colorful shades",
@@ -979,7 +979,7 @@
 	"perspective": "realistic perspective"},
 {
 	"image_name": "photo/elephant/064_0108.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "recognizable edges, not clearly visible",
 	"color_saturation": "low saturation",
 	"color_shades": "colorful shades",
@@ -990,7 +990,7 @@
 	"perspective": "realistic perspective"},
 {
 	"image_name": "photo/guitar/063_0006.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "not clearly visible and not recognizable edges",
 	"color_saturation": "mid saturation",
 	"color_shades": "colorful shades",
@@ -1001,7 +1001,7 @@
 	"perspective": "realistic perspective" },
 {
 	"image_name": "photo/guitar/n03272010_6926.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "not clearly visible but recognizable",
 	"color_saturation": "low saturation",
 	"color_shades": "colorful shades",
@@ -1012,7 +1012,7 @@
 	"perspective": "realistic perspective"},
 {
 	"image_name": "photo/horse/n02374451_468.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "clearly visible and recognizable",
 	"color_saturation": "mid saturation",
 	"color_shades": "colorful shades",
@@ -1023,7 +1023,7 @@
 	"perspective": "realistic perspective"},
 {
 	"image_name": "photo/dog/056_0023.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "not clearly recognizable",
 	"color_saturation": "high saturation",
 	"color_shades": "colorful shades",
@@ -1034,7 +1034,7 @@
 	"perspective": "realistic perspective"},
 {
 	"image_name": "photo/dog/056_0034.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "not clearly recognizable",
 	"color_saturation": "mid saturation",
 	"color_shades": "colorful shades",
@@ -1045,7 +1045,7 @@
 	"perspective": "realistic perspective"},
 {
 	"image_name": "photo/guitar/063_0012.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "clearly recognizable",
 	"color_saturation": "mid saturation",
 	"color_shades": "colorful shades",
@@ -1056,7 +1056,7 @@
 	"perspective": "unrealistic perspective"},
 {
 	"image_name": "photo/elephant/n02503517_3072.jpg",
-	"details": "very high-level details",
+	"details": "very high level details",
 	"edges": "clearly recognizable",
 	"color_saturation": "mid saturation",
 	"color_shades": "colorful shades",
@@ -1067,7 +1067,7 @@
 	"perspective": "realistic perspective"},
 {
 	"image_name": "photo/horse/n02374451_490.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "recognizable but not evident",
 	"color_saturation": "low saturation",
 	"color_shades": "colorful shades",
@@ -1078,7 +1078,7 @@
 	"perspective": "realistic perspective"},
 {
 	"image_name": "photo/guitar/n02676566_6631.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "not easily visible",
 	"color_saturation": "mid saturation",
 	"color_shades": "colorful shades",
@@ -1090,7 +1090,7 @@
 },
 {
 	"image_name": "sketch/horse/8493.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "imprecise edges, trembling lines",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -1102,7 +1102,7 @@
 },
 {
 	"image_name": "sketch/horse/8485.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "imprecise edges, trembling lines",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -1114,7 +1114,7 @@
 },
 {
 	"image_name": "sketch/horse/n02374451_12250-1.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "definite lines",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -1126,7 +1126,7 @@
 },
 {
 	"image_name": "sketch/horse/n02374451_13159-3.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "definite lines",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -1138,7 +1138,7 @@
 },
 {
 	"image_name": "sketch/horse/n02374451_925-2.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "definite lines",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -1150,7 +1150,7 @@
 },
 {
 	"image_name": "sketch/giraffe/n02439033_10164-10.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "precise lines",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -1162,7 +1162,7 @@
 },
 {
 	"image_name": "sketch/giraffe/n02439033_13602-4.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "definite, trembling lines",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -1174,7 +1174,7 @@
 },
 {
 	"image_name": "sketch/giraffe/n02439033_16483-2.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "imprecise lines",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -1186,7 +1186,7 @@
 },
 {
 	"image_name": "sketch/giraffe/n02439033_11487-4.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "imprecise lines",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -1198,7 +1198,7 @@
 },
 {
 	"image_name": "sketch/elephant/n02503517_8571-6.png",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "definite, trembling lines",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -1210,7 +1210,7 @@
 },
 {
 	"image_name": "sketch/elephant/n02503517_4413-6.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "indefinite lines",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -1222,7 +1222,7 @@
 },
 {
 	"image_name": "sketch/elephant/n02503517_9043-5.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "imprecise edges, trembling lines",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -1234,7 +1234,7 @@
 },
 {
 	"image_name": "sketch/elephant/n02503517_9043-8.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "definitre, trembling lines",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -1246,7 +1246,7 @@
 },
 {
 	"image_name": "sketch/elephant/n02503517_5892-4.png",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "definite, trembling lines",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -1258,7 +1258,7 @@
 },
 {
 	"image_name": "sketch/elephant/n02503517_7393-3.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "imprecise edges, trembling lines",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -1270,7 +1270,7 @@
 },
 {
 	"image_name": "sketch/guitar/n02676566_4469-4.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "imprecise edges, trembling lines",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -1282,7 +1282,7 @@
 },
 {
 	"image_name": "sketch/guitar/7654.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "imprecise edges, trembling lines",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -1294,7 +1294,7 @@
 },
 {
 	"image_name": "sketch/guitar/n02676566_8618-3.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "imprecise edges, trembling lines",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -1306,7 +1306,7 @@
 },
 {
 	"image_name": "sketch/guitar/n03467517_16911-1.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "definite, trembling lines",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -1318,7 +1318,7 @@
 },
 {
 	"image_name": "sketch/dog/n02103406_7708-10.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "imprecise edges, trembling lines",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -1330,7 +1330,7 @@
 },
 {
 	"image_name": "sketch/dog/n02103406_4068-1.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "imprecise edges, trembling lines",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -1342,7 +1342,7 @@
 },
 {
 	"image_name": "sketch/dog/n02103406_7708-2.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "imprecise edges, trembling lines",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -1354,7 +1354,7 @@
 },
 {
 	"image_name": "sketch/dog/n02103406_3299-5.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "imprecise edges, trembling lines",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -1366,7 +1366,7 @@
 },
 {
 	"image_name": "sketch/dog/n02103406_3108-5.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "definite, trembling lines",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -1378,7 +1378,7 @@
 },
 {
 	"image_name": "sketch/person/12182.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "imprecise edges, trembling lines",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -1390,7 +1390,7 @@
 },
 {
 	"image_name": "photo/guitar/063_0036.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "definite lines",
 	"color_saturation": "mid saturation, vivid colors, light reflections",
 	"color_shades": "colorful shades",
@@ -1402,7 +1402,7 @@
 },
 {
 	"image_name": "photo/guitar/063_0121.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "definite lines",
 	"color_saturation": "low saturation",
 	"color_shades": "grayscale shades",
@@ -1414,7 +1414,7 @@
 },
 {
 	"image_name": "photo/person/253_0301.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "definite lines",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "colorful shades",
@@ -1426,7 +1426,7 @@
 },
 {
 	"image_name": "photo/person/253_0281.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "definite lined",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "colorful shades",
@@ -1438,7 +1438,7 @@
 },
 {
 	"image_name": "photo/person/253_0161.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "definite lines",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "colorful shades",
@@ -1450,7 +1450,7 @@
 },
 {
 	"image_name": "photo/person/253_0020.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "definite lines",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "colorful shades",
@@ -1462,7 +1462,7 @@
 },
 {
 	"image_name": "photo/person/253_0343.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "definite lines",
 	"color_saturation": "high saturation, dull colors",
 	"color_shades": "colorful shades",
@@ -1474,7 +1474,7 @@
 },
 {
 	"image_name": "photo/horse/105_0058.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "blurred lines",
 	"color_saturation": "high saturation, dull colors",
 	"color_shades": "colorful shades",
@@ -1486,7 +1486,7 @@
 },
 {
 	"image_name": "photo/horse/105_0012.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "blurred lines",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "colorful shades",
@@ -1498,7 +1498,7 @@
 },
 {
 	"image_name": "photo/horse/105_0033.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "definite lines",
 	"color_saturation": "no color saturation",
 	"color_shades": "grayscale shades",
@@ -1510,7 +1510,7 @@
 },
 {
 	"image_name": "photo/horse/n02374451_7631.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "blurred lines",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "colorful shades",
@@ -1522,7 +1522,7 @@
 },
 {
 	"image_name": "photo/elephant/064_0116.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "blurred lines",
 	"color_saturation": "high saturation, dull colors",
 	"color_shades": "greenscale shades",
@@ -1534,7 +1534,7 @@
 },
 {
 	"image_name": "photo/house/pic_243.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "blurred lines",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "colorful shades",
@@ -1546,7 +1546,7 @@
 },
 {
 	"image_name": "photo/house/pic_244.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "definite lines",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "colorful shades",
@@ -1558,7 +1558,7 @@
 },
 {
 	"image_name": "photo/house/pic_259.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "definite lines",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "colorful shades",
@@ -1570,7 +1570,7 @@
 },
 {
 	"image_name": "photo/house/pic_148.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "blurred lines",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "colorful shades",
@@ -1582,7 +1582,7 @@
 },
 {
 	"image_name": "photo/house/pic_211.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "blurred lines",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "colorful shades",
@@ -1594,7 +1594,7 @@
 },
 {
 	"image_name": "photo/dog/n02106662_26549.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "definite lines",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "colorful shades",
@@ -1606,7 +1606,7 @@
 },
 {
 	"image_name": "photo/dog/056_0102.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "definite lines",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "colorful shades",
@@ -1618,7 +1618,7 @@
 },
 {
 	"image_name": "photo/dog/056_0017.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "definite lines",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "brownscale shades",
@@ -1630,7 +1630,7 @@
 },
 {
 	"image_name": "photo/dog/n02106662_10406.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "blurred lines",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "colorful shades",
@@ -1642,7 +1642,7 @@
 },
 {
 	"image_name": "photo/giraffe/n02439033_9598.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "definite lines",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "colorful shades",
@@ -1654,7 +1654,7 @@
 },
 {
 	"image_name": "photo/giraffe/084_0012.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "definite lines",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "colorful shades",
@@ -1666,7 +1666,7 @@
 },
 {
 	"image_name": "photo/giraffe/n02439033_11666.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "definite lines",
 	"color_saturation": "high saturation, dull colors",
 	"color_shades": "colorful shades",
@@ -1678,7 +1678,7 @@
 },
 {
 	"image_name": "photo/giraffe/084_0028.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "definite lines",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "colorful shades",
@@ -1690,7 +1690,7 @@
 },
 {
 	"image_name": "cartoon/giraffe/pic_082.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "precise edges, definite lines",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "colorful shades",
@@ -1702,7 +1702,7 @@
 },
 {
 	"image_name": "cartoon/giraffe/pic_095.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "precise edges, definite lines",
 	"color_saturation": "high saturation, dull colors",
 	"color_shades": "brownscale shades",
@@ -1714,7 +1714,7 @@
 },
 {
 	"image_name": "cartoon/giraffe/pic_114.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "precise edges, definite lines",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "brownscale shades",
@@ -1726,7 +1726,7 @@
 },
 {
 	"image_name": "cartoon/giraffe/pic_226.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "precise edges, blurred lines",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "colorful shades",
@@ -1738,7 +1738,7 @@
 },
 {
 	"image_name": "cartoon/giraffe/pic_330.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "precise edges, definite lines",
 	"color_saturation": "vivid colors",
 	"color_shades": "colorful shades",
@@ -1750,7 +1750,7 @@
 },
 {
 	"image_name": "cartoon/person/pic_186.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "blurred lines",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "colorful shades",
@@ -1762,7 +1762,7 @@
 },
 {
 	"image_name": "cartoon/person/pic_287.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "precise edges, definite lines",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "colorful shades",
@@ -1774,7 +1774,7 @@
 },
 {
 	"image_name": "cartoon/person/pic_390.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "precise edges, definite lines",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "colorful shades",
@@ -1786,7 +1786,7 @@
 },
 {
 	"image_name": "cartoon/horse/pic_020.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "precise edges, definite lines",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "brownscale shades",
@@ -1798,7 +1798,7 @@
 },
 {
 	"image_name": "cartoon/horse/pic_130.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "precise edges, definite lines",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "colorful shades",
@@ -1810,7 +1810,7 @@
 },
 {
 	"image_name": "cartoon/horse/pic_171.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "precise edges, blurred lines",
 	"color_saturation": "mid saturation, dull colors",
 	"color_shades": "brownscale shades",
@@ -1822,7 +1822,7 @@
 },
 {
 	"image_name": "cartoon/elephant/pic_045.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "precise edges, definite lines",
 	"color_saturation": "high saturation, dull colors",
 	"color_shades": "colorful shades",
@@ -1834,7 +1834,7 @@
 },
 {
 	"image_name": "cartoon/elephant/pic_050.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "precise edges, blurred lines",
 	"color_saturation": "high saturation, dull colors",
 	"color_shades": "colorful shades",
@@ -1846,7 +1846,7 @@
 },
 {
 	"image_name": "cartoon/elephant/pic_108.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "precise edges, definite lines",
 	"color_saturation": "mid saturation, dull colors",
 	"color_shades": "colorful shades",
@@ -1858,7 +1858,7 @@
 },
 {
 	"image_name": "cartoon/elephant/pic_131.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "precise edges, definite lines",
 	"color_saturation": "high saturation, dull colors",
 	"color_shades": "bluescale",
@@ -1870,7 +1870,7 @@
 },
 {
 	"image_name": "cartoon/elephant/pic_140.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "precise edges, definite lines",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "colorful shades",
@@ -1882,7 +1882,7 @@
 },
 {
 	"image_name": "cartoon/elephant/pic_242.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "precie, definite lines",
 	"color_saturation": "high saturation, dull colors",
 	"color_shades": "greenscale shades",
@@ -1894,7 +1894,7 @@
 },
 {
 	"image_name": "cartoon/elephant/pic_335.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "precise edges, blurred lines",
 	"color_saturation": "mid saturation, dull colors",
 	"color_shades": "grayscale shades",
@@ -1906,7 +1906,7 @@
 },
 {
 	"image_name": "cartoon/guitar/pic_050.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "precise edges, definite lines",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "brownscale shades",
@@ -1918,7 +1918,7 @@
 },
 {
 	"image_name": "cartoon/guitar/pic_002.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "precise edges, definite lines",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "colorful shades",
@@ -1930,7 +1930,7 @@
 },
 {
 	"image_name": "cartoon/guitar/pic_139.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "precise edges, blurred lines",
 	"color_saturation": "mid saturation, dull colors",
 	"color_shades": "colorful shades",
@@ -1942,7 +1942,7 @@
 },
 {
 	"image_name": "cartoon/guitar/pic_151.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "precise edges, definite lines",
 	"color_saturation": "high saturation, dull colors",
 	"color_shades": "colorful shades",
@@ -1954,7 +1954,7 @@
 },
 {
 	"image_name": "cartoon/dog/pic_246.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "precise edges, definite lines",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "brownscale shades",
@@ -1966,7 +1966,7 @@
 },
 {
 	"image_name": "cartoon/dog/pic_273.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "precise edges, definite lines",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "brownscale shades",
@@ -1978,7 +1978,7 @@
 },
 {
 	"image_name": "cartoon/house/pic_252.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "precise edges, definite lines",
 	"color_saturation": "high saturation, dull colors",
 	"color_shades": "colorful shades",
@@ -1990,7 +1990,7 @@
 },
 {
 	"image_name": "art_painting/person/pic_226.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "precise brush strokes",
 	"color_saturation": "high saturation, dull colors",
 	"color_shades": "colorful shades",
@@ -2002,7 +2002,7 @@
 },
 {
 	"image_name": "art_painting/person/pic_247.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "precise brush strokes",
 	"color_saturation": "high saturation, dull colors",
 	"color_shades": "colorful shades",
@@ -2014,7 +2014,7 @@
 },
 {
 	"image_name": "art_painting/person/pic_290.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "precise brush strokes",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "colorful shades",
@@ -2026,7 +2026,7 @@
 },
 {
 	"image_name": "art_painting/person/pic_397.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "precise brush strokes",
 	"color_saturation": "high saturation, dull colors",
 	"color_shades": "colorful shades",
@@ -2038,7 +2038,7 @@
 },
 {
 	"image_name": "art_painting/person/pic_506.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "precise brush strokes",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "colorful shades",
@@ -2050,7 +2050,7 @@
 },
 {
 	"image_name": "art_painting/person/pic_572.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "imprecise edges, definite lines",
 	"color_saturation": "low saturation, dull colors",
 	"color_shades": "colorful shades",
@@ -2062,7 +2062,7 @@
 },
 {
 	"image_name": "art_painting/giraffe/pic_042.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "imprecise edges, definite lines",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "colorful shades",
@@ -2074,7 +2074,7 @@
 },
 {
 	"image_name": "art_painting/giraffe/pic_231.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "precise strokes",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "colorful shades",
@@ -2086,7 +2086,7 @@
 },
 {
 	"image_name": "art_painting/dog/pic_025.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "trembling, precise brush strokes",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "colorful shades",
@@ -2098,7 +2098,7 @@
 },
 {
 	"image_name": "art_painting/dog/pic_076.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "precise brush strokes",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "colorful shades",
@@ -2110,7 +2110,7 @@
 },
 {
 	"image_name": "art_painting/dog/pic_205.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "precise strokes",
 	"color_saturation": "high saturation, dull colors",
 	"color_shades": "colorful shades",
@@ -2122,7 +2122,7 @@
 },
 {
 	"image_name": "art_painting/dog/pic_283.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "precise strokes",
 	"color_saturation": "low saturation, dull colors",
 	"color_shades": "colorful shades",
@@ -2134,7 +2134,7 @@
 },
 {
 	"image_name": "art_painting/dog/pic_291.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "precise brush strokes",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "colorful shades",
@@ -2146,7 +2146,7 @@
 },
 {
 	"image_name": "art_painting/dog/pic_321.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "indefinite strokes",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "colorful shades",
@@ -2158,7 +2158,7 @@
 },
 {
 	"image_name": "art_painting/dog/pic_325.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "precise brush strokes",
 	"color_saturation": "high saturation, dull colors",
 	"color_shades": "colorful shades",
@@ -2170,7 +2170,7 @@
 },
 {
 	"image_name": "art_painting/dog/pic_330.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "precise brush strokes",
 	"color_saturation": "high saturation, dull colors",
 	"color_shades": "colorful shades",
@@ -2182,7 +2182,7 @@
 },
 {
 	"image_name": "art_painting/elephant/pic_145.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "precise strokes",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "colorful shades",
@@ -2194,7 +2194,7 @@
 },
 {
 	"image_name": "art_painting/elephant/pic_242.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "precise strokes",
 	"color_saturation": "low saturation, dull colors",
 	"color_shades": "colorful shades",
@@ -2206,7 +2206,7 @@
 },
 {
 	"image_name": "art_painting/guitar/pic_074.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "imprecise strokes",
 	"color_saturation": "high saturation, dull colors",
 	"color_shades": "brownscale shades",
@@ -2218,7 +2218,7 @@
 },
 {
 	"image_name": "art_painting/guitar/pic_131.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "imprecise strokes",
 	"color_saturation": "mid saturation, dull colors",
 	"color_shades": "brownscale shades",
@@ -2230,7 +2230,7 @@
 },
 {
 	"image_name": "art_painting/horse/pic_063.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "precise strokes",
 	"color_saturation": "mid saturation, dull colors",
 	"color_shades": "colorful shades",
@@ -2242,7 +2242,7 @@
 },
 {
 	"image_name": "art_painting/horse/pic_099.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "precise strokes",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "brownscale shades",
@@ -2254,7 +2254,7 @@
 },
 {
 	"image_name": "art_painting/horse/pic_216.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "precise strokes",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "colorful shades",
@@ -2266,7 +2266,7 @@
 },
 {
 	"image_name": "art_painting/house/pic_215.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "precise brush strokes",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "colorful shades",
@@ -2278,7 +2278,7 @@
 },
 {
 	"image_name": "art_painting/house/pic_255.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "precise brush strokes",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "colorful shades",
@@ -2290,7 +2290,7 @@
 },
 {
 	"image_name": "sketch/elephant/n02503517_7031-6.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "evident outlines, broken line in a stroke, some lines are overlayed",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -2302,7 +2302,7 @@
 },
 {
 	"image_name": "sketch/elephant/n02503517_1963-1.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "evident outlines, broken line in a stroke, ",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -2314,7 +2314,7 @@
 },
 {
 	"image_name": "sketch/guitar/n03272010_6926-5.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "evident outlines",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -2326,7 +2326,7 @@
 },
 {
 	"image_name": "sketch/horse/8504.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "light outlines",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -2338,7 +2338,7 @@
 },
 {
 	"image_name": "sketch/guitar/n02676566_6914-2.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "evident outlines",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -2350,7 +2350,7 @@
 },
 {
 	"image_name": "sketch/dog/n02106662_466-3.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "evident outlines",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -2362,7 +2362,7 @@
 },
 {
 	"image_name": "sketch/horse/8511.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "light outlines",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -2374,7 +2374,7 @@
 },
 {
 	"image_name": "sketch/dog/5351.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "light outlines, some features are less visible",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -2386,7 +2386,7 @@
 },
 {
 	"image_name": "sketch/person/12197.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "light outlines, some features are less visible",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -2398,7 +2398,7 @@
 },
 {
 	"image_name": "sketch/guitar/7636.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "evident outlines, some features are less visible",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -2410,7 +2410,7 @@
 },
 {
 	"image_name": "sketch/dog/n02106662_466-1.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "evident outlines, broken line in a stroke",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -2422,7 +2422,7 @@
 },
 {
 	"image_name": "sketch/dog/n02103406_3108-4.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "evident outlines, broken line in a stroke",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -2434,7 +2434,7 @@
 },
 {
 	"image_name": "sketch/horse/n02374451_779-2.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "evident outlines, half drawed",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -2446,7 +2446,7 @@
 },
 {
 	"image_name": "sketch/giraffe/n02439033_15005-8.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "evident outlines",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -2458,7 +2458,7 @@
 },
 {
 	"image_name": "sketch/guitar/n03467517_12925-3.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "evident outlines",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -2470,7 +2470,7 @@
 },
 {
 	"image_name": "sketch/giraffe/n02439033_14121-6.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "evident outlines, broken line in a some stroke",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -2482,7 +2482,7 @@
 },
 {
 	"image_name": "sketch/elephant/n02503517_4221-1.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "evident outlines",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -2494,7 +2494,7 @@
 },
 {
 	"image_name": "sketch/elephant/n02503517_10439-7.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "evident outlines, some lines are marked",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -2506,7 +2506,7 @@
 },
 {
 	"image_name": "sketch/horse/n02374451_3808-2.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "evident outlines, some lines are marked, broken line in a some stroke",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -2518,7 +2518,7 @@
 },
 {
 	"image_name": "sketch/giraffe/n02439033_14060-6.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "evident outlines",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -2530,7 +2530,7 @@
 },
 {
 	"image_name": "sketch/giraffe/n02439033_14322-3.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "evident outlines, broken lines in a stroke",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -2542,7 +2542,7 @@
 },
 {
 	"image_name": "sketch/dog/n02103406_343-6.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "evident outlines, broken lines in a strokes",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -2554,7 +2554,7 @@
 },
 {
 	"image_name": "sketch/giraffe/n02439033_11683-5.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "evident outlines, some lines are marked",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -2566,7 +2566,7 @@
 },
 {
 	"image_name": "sketch/guitar/7639.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "light outlines, some features are less visible",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -2578,7 +2578,7 @@
 },
 {
 	"image_name": "sketch/elephant/n02503517_10300-2.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "evident outlines, broken line in some strokes",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -2590,7 +2590,7 @@
 },
 {
 	"image_name": "sketch/elephant/n02503517_8137-4.png",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "evident outlines, broken line in a stroke",
 	"color_saturation": "no color saturation",
 	"color_shades": "no color shades",
@@ -2602,7 +2602,7 @@
 },
 {
 	"image_name": "photo/dog/n02103406_5035.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "clearly visible",
 	"color_saturation": "high saturation",
 	"color_shades": "colorful shades",
@@ -2614,7 +2614,7 @@
 },
 {
 	"image_name": "photo/person/253_0159.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "clearly visible",
 	"color_saturation": "high saturation",
 	"color_shades": "colorful shades",
@@ -2626,7 +2626,7 @@
 },
 {
 	"image_name": "photo/dog/n02103406_4916.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "clearly visible",
 	"color_saturation": "high saturation",
 	"color_shades": "no color shades",
@@ -2638,7 +2638,7 @@
 },
 {
 	"image_name": "photo/elephant/n02503517_7031.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "visible edges",
 	"color_saturation": "high saturation",
 	"color_shades": "colorful shades",
@@ -2650,7 +2650,7 @@
 },
 {
 	"image_name": "photo/giraffe/n02439033_14724.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "visible but not very clear",
 	"color_saturation": "mid saturation",
 	"color_shades": "colorful shades",
@@ -2662,7 +2662,7 @@
 },
 {
 	"image_name": "photo/person/253_0033.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "clearly visible",
 	"color_saturation": "high saturation",
 	"color_shades": "colorful shades",
@@ -2674,7 +2674,7 @@
 },
 {
 	"image_name": "photo/person/253_0415.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "visible edges, but not very clear in some strokes",
 	"color_saturation": "high saturation",
 	"color_shades": "colorful shades",
@@ -2698,7 +2698,7 @@
 },
 {
 	"image_name": "photo/dog/n02103406_343.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "visible lines",
 	"color_saturation": "high saturation",
 	"color_shades": "colorful shades",
@@ -2710,11 +2710,11 @@
 },
 {
 	"image_name": "photo/house/pic_216.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "visible lines, not clear at the edges of the image",
 	"color_saturation": "high saturation",
 	"color_shades": "colorful shades",
-	"background": "light-blue",
+	"background": "light blue",
 	"single_instance": "single instance",
 	"text": "without text",
 	"texture": "without texture",
@@ -2722,7 +2722,7 @@
 },
 {
 	"image_name": "photo/dog/n02109525_5966.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "visible lines, not clear in some strokes",
 	"color_saturation": "high saturation",
 	"color_shades": "no color shades",
@@ -2734,7 +2734,7 @@
 },
 {
 	"image_name": "photo/house/pic_237.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "clearly visibles",
 	"color_saturation": "high saturation",
 	"color_shades": "no color shades",
@@ -2746,7 +2746,7 @@
 },
 {
 	"image_name": "photo/guitar/063_0094.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "visible lines",
 	"color_saturation": "high saturation",
 	"color_shades": "no color shades",
@@ -2758,7 +2758,7 @@
 },
 {
 	"image_name": "photo/dog/056_0064.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "clearly visibles",
 	"color_saturation": "high saturation",
 	"color_shades": "colorful shades",
@@ -2770,7 +2770,7 @@
 },
 {
 	"image_name": "photo/giraffe/n02439033_16483.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "clearly visibles",
 	"color_saturation": "high saturation",
 	"color_shades": "colorful shades",
@@ -2782,7 +2782,7 @@
 },
 {
 	"image_name": "photo/guitar/n03467517_7007.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "visible lines",
 	"color_saturation": "mid saturation",
 	"color_shades": "no color shades",
@@ -2794,7 +2794,7 @@
 },
 {
 	"image_name": "photo/person/253_0167.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "visible lines",
 	"color_saturation": "mid saturation",
 	"color_shades": "no color shades",
@@ -2806,7 +2806,7 @@
 },
 {
 	"image_name": "photo/person/253_0090.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "not very visible edges",
 	"color_saturation": "mid saturation",
 	"color_shades": "colorful shades",
@@ -2818,7 +2818,7 @@
 },
 {
 	"image_name": "photo/horse/n02374451_916.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "visible lines",
 	"color_saturation": "mid saturation",
 	"color_shades": "no color shades",
@@ -2830,7 +2830,7 @@
 },
 {
 	"image_name": "photo/horse/n02374451_8065.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "clearly visibles",
 	"color_saturation": "high saturation",
 	"color_shades": "no color shades",
@@ -2842,7 +2842,7 @@
 },
 {
 	"image_name": "photo/dog/n02109525_704.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "clearly visibles",
 	"color_saturation": "high saturation",
 	"color_shades": "no color shades",
@@ -2854,7 +2854,7 @@
 },
 {
 	"image_name": "photo/guitar/063_0091.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "clearly visibles",
 	"color_saturation": "high saturation",
 	"color_shades": "colorful shades",
@@ -2866,7 +2866,7 @@
 },
 {
 	"image_name": "photo/person/253_0425.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "clearly visibles",
 	"color_saturation": "high saturation",
 	"color_shades": "colorful shades",
@@ -2878,11 +2878,11 @@
 },
 {
 	"image_name": "photo/person/253_0326.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "clearly visibles",
 	"color_saturation": "high saturation",
 	"color_shades": "colorful shades",
-	"background": "light-yellow",
+	"background": "light yellow",
 	"single_instance": "single instance",
 	"text": "without text",
 	"texture": "without texture",
@@ -2890,7 +2890,7 @@
 },
 {
 	"image_name": "photo/person/253_0009.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "clearly visibles",
 	"color_saturation": "high saturation",
 	"color_shades": "colorful shades",
@@ -2902,7 +2902,7 @@
 },
 {
 	"image_name": "photo/house/pic_040.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "not very visible edges",
 	"color_saturation": "high saturation",
 	"color_shades": "colorful shades",
@@ -2914,7 +2914,7 @@
 },
 {
 	"image_name": "cartoon/dog/pic_062.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "clearly visibles",
 	"color_saturation": "high saturation",
 	"color_shades": "no color shades",
@@ -2926,7 +2926,7 @@
 },
 {
 	"image_name": "cartoon/guitar/pic_082.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "clearly visibles",
 	"color_saturation": "high saturation",
 	"color_shades": "no color shades",
@@ -2938,7 +2938,7 @@
 },
 {
 	"image_name": "cartoon/horse/pic_296.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "clearly visibles",
 	"color_saturation": "high saturation",
 	"color_shades": "no color shades",
@@ -2950,7 +2950,7 @@
 },
 {
 	"image_name": "cartoon/elephant/pic_303.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "clearly visibles, but overlayed in some strokes",
 	"color_saturation": "high saturation",
 	"color_shades": "no color shades",
@@ -2962,7 +2962,7 @@
 },
 {
 	"image_name": "cartoon/person/pic_034.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "clearly visibles",
 	"color_saturation": "mid saturation",
 	"color_shades": "no color shades",
@@ -2974,7 +2974,7 @@
 },
 {
 	"image_name": "cartoon/elephant/pic_190.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "clearly visibles",
 	"color_saturation": "mid saturation",
 	"color_shades": "no color shades",
@@ -2986,7 +2986,7 @@
 },
 {
 	"image_name": "cartoon/person/pic_002.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "clearly visibles",
 	"color_saturation": "mid saturation",
 	"color_shades": "no color shades",
@@ -2998,7 +2998,7 @@
 },
 {
 	"image_name": "cartoon/horse/pic_234.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "clearly visibles",
 	"color_saturation": "mid saturation",
 	"color_shades": "no color shades",
@@ -3010,7 +3010,7 @@
 },
 {
 	"image_name": "cartoon/dog/pic_136.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "clearly visibles",
 	"color_saturation": "mid saturation",
 	"color_shades": "no color shades",
@@ -3022,7 +3022,7 @@
 },
 {
 	"image_name": "cartoon/giraffe/pic_100.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "clearly visibles",
 	"color_saturation": "mid saturation",
 	"color_shades": "no color shades",
@@ -3034,7 +3034,7 @@
 },
 {
 	"image_name": "cartoon/house/pic_182.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "not visible edges",
 	"color_saturation": "mid saturation",
 	"color_shades": "no color shades",
@@ -3046,7 +3046,7 @@
 },
 {
 	"image_name": "cartoon/dog/pic_279.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "clearly visibles",
 	"color_saturation": "mid saturation",
 	"color_shades": "no color shades",
@@ -3058,7 +3058,7 @@
 },
 {
 	"image_name": "cartoon/dog/pic_117.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "clearly visibles",
 	"color_saturation": "low saturation",
 	"color_shades": "no color shades",
@@ -3070,7 +3070,7 @@
 },
 {
 	"image_name": "cartoon/giraffe/pic_050.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "clearly visibles",
 	"color_saturation": "mid saturation",
 	"color_shades": "no color shades",
@@ -3082,7 +3082,7 @@
 },
 {
 	"image_name": "cartoon/person/pic_050.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "clearly visibles",
 	"color_saturation": "mid saturation",
 	"color_shades": "no color shades",
@@ -3094,7 +3094,7 @@
 },
 {
 	"image_name": "cartoon/house/pic_009.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "clearly visibles",
 	"color_saturation": "mid saturation",
 	"color_shades": "no color shades",
@@ -3106,7 +3106,7 @@
 },
 {
 	"image_name": "cartoon/house/pic_260.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "clearly visibles",
 	"color_saturation": "mid saturation",
 	"color_shades": "no color shades",
@@ -3118,7 +3118,7 @@
 },
 {
 	"image_name": "cartoon/giraffe/pic_322.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "clearly visibles",
 	"color_saturation": "mid saturation",
 	"color_shades": "no color shades",
@@ -3130,11 +3130,11 @@
 },
 {
 	"image_name": "cartoon/elephant/pic_482.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "clearly visibles",
 	"color_saturation": "mid saturation",
 	"color_shades": "no color shades",
-	"background": "white and different shades of light-blue, light-brown",
+	"background": "white and different shades of light blue, light-brown",
 	"single_instance":  "multiple instances",
 	"text": "without text",
 	"texture": "without texture",
@@ -3142,7 +3142,7 @@
 },
 {
 	"image_name": "cartoon/guitar/pic_140.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "clearly visibles",
 	"color_saturation": "mid saturation",
 	"color_shades": "no color shades",
@@ -3154,7 +3154,7 @@
 },
 {
 	"image_name": "cartoon/house/pic_201.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "clearly visibles",
 	"color_saturation": "high saturation",
 	"color_shades": "no color shades",
@@ -3166,7 +3166,7 @@
 },
 {
 	"image_name": "cartoon/horse/pic_007.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "clearly visibles",
 	"color_saturation": "mid saturation",
 	"color_shades": "no color shades",
@@ -3178,7 +3178,7 @@
 },
 {
 	"image_name": "art_painting/giraffe/pic_117.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "not clearly visibles",
 	"color_saturation": "mid saturation",
 	"color_shades": "no color shades",
@@ -3190,7 +3190,7 @@
 },
 {
 	"image_name": "art_painting/elephant/pic_026.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "clearly visibles",
 	"color_saturation": "high saturation",
 	"color_shades": "no color shades",
@@ -3202,11 +3202,11 @@
 },
 {
 	"image_name": "art_painting/dog/pic_295.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "visible lines",
 	"color_saturation": "high saturation",
 	"color_shades": "no color shades",
-	"background": "green and light-blue",
+	"background": "green and light blue",
 	"single_instance": "single instance",
 	"text": "without text",
 	"texture": "painting texture",
@@ -3214,7 +3214,7 @@
 },
 {
 	"image_name": "art_painting/person/pic_277.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "not clearly visibles",
 	"color_saturation": "high saturation",
 	"color_shades": "no color shades",
@@ -3226,7 +3226,7 @@
 },
 {
 	"image_name": "art_painting/guitar/pic_064.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "visible lines",
 	"color_saturation": "high saturation",
 	"color_shades": "no color shades",
@@ -3238,7 +3238,7 @@
 },
 {
 	"image_name": "art_painting/dog/pic_245.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "not clearly visibles",
 	"color_saturation": "high saturation",
 	"color_shades": "colorful shades",
@@ -3250,7 +3250,7 @@
 },
 {
 	"image_name": "art_painting/guitar/pic_101.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "not visible edges",
 	"color_saturation": "high saturation",
 	"color_shades": "no color shades",
@@ -3274,7 +3274,7 @@
 },
 {
 	"image_name": "art_painting/dog/pic_332.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "visible lines",
 	"color_saturation": "high saturation",
 	"color_shades": "no color shades",
@@ -3286,7 +3286,7 @@
 },
 {
 	"image_name": "art_painting/dog/pic_092.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "not clearly visibles",
 	"color_saturation": "high saturation",
 	"color_shades": "no color shades",
@@ -3298,7 +3298,7 @@
 },
 {
 	"image_name": "art_painting/person/pic_106.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "not clearly visibles, overlayed in some strokes",
 	"color_saturation": "high saturation",
 	"color_shades": "no color shades",
@@ -3310,7 +3310,7 @@
 },
 {
 	"image_name": "art_painting/elephant/pic_011.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "not clearly visibles",
 	"color_saturation": "high saturation",
 	"color_shades": "no color shades",
@@ -3322,7 +3322,7 @@
 },
 {
 	"image_name": "art_painting/person/pic_035.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "visible lines",
 	"color_saturation": "high saturation",
 	"color_shades": "no color shades",
@@ -3334,7 +3334,7 @@
 },
 {
 	"image_name": "art_painting/giraffe/pic_167.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "visible lines",
 	"color_saturation": "mid saturation",
 	"color_shades": "no color shades",
@@ -3346,7 +3346,7 @@
 },
 {
 	"image_name": "art_painting/person/pic_070.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "not clearly visibles",
 	"color_saturation": "high saturation",
 	"color_shades": "no color shades",
@@ -3358,7 +3358,7 @@
 },
 {
 	"image_name": "art_painting/guitar/pic_086.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "not visible edges",
 	"color_saturation": "high saturation",
 	"color_shades": "no color shades",
@@ -3370,7 +3370,7 @@
 },
 {
 	"image_name": "art_painting/guitar/pic_156.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "not clearly visibles",
 	"color_saturation": "high saturation",
 	"color_shades": "no color shades",
@@ -3382,7 +3382,7 @@
 },
 {
 	"image_name": "art_painting/guitar/pic_158.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "not visible edges",
 	"color_saturation": "high saturation",
 	"color_shades": "no color shades",
@@ -3394,7 +3394,7 @@
 },
 {
 	"image_name": "art_painting/person/pic_314.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "visible lines",
 	"color_saturation": "high saturation",
 	"color_shades": "no color shades",
@@ -3406,7 +3406,7 @@
 },
 {
 	"image_name": "art_painting/person/pic_501.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "not visible edges",
 	"color_saturation": "high saturation",
 	"color_shades": "no color shades",
@@ -3418,7 +3418,7 @@
 },
 {
 	"image_name": "art_painting/elephant/pic_164.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "not visible edges",
 	"color_saturation": "high saturation",
 	"color_shades": "no color shades",
@@ -3430,7 +3430,7 @@
 },
 {
 	"image_name": "art_painting/person/pic_338.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "visible lines",
 	"color_saturation": "high saturation",
 	"color_shades": "no color shades",
@@ -3442,7 +3442,7 @@
 },
 {
 	"image_name": "art_painting/house/pic_234.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "not clearly visibles",
 	"color_saturation": "mid saturation",
 	"color_shades": "no color shades",
@@ -3454,11 +3454,11 @@
 },
 {
 	"image_name": "art_painting/giraffe/pic_301.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "not visible edges, broken in the centre of the istance",
 	"color_saturation": "high saturation",
 	"color_shades": "no color shades",
-	"background": "green, blue and light-blue",
+	"background": "green, blue and light blue",
 	"single_instance":  "multiple instances",
 	"text": "without text",
 	"texture": "painting texture",
@@ -3466,7 +3466,7 @@
 },
 {
 	"image_name": "art_painting/person/pic_129.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "not clearly visibles",
 	"color_saturation": "high saturation",
 	"color_shades": "no color shades",
@@ -3478,7 +3478,7 @@
 },
 {
 	"image_name": "art_painting/elephant/pic_200.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "quite-neat blending brush strokes, broken abstract line",
 	"color_saturation": "mid saturation, light reflections",
 	"color_shades": "colorful shades",
@@ -3490,7 +3490,7 @@
 },
 {
 	"image_name": "art_painting/person/pic_333.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "definite brush strokes",
 	"color_saturation": "high saturation, strong vivid colors",
 	"color_shades": "no color shades",
@@ -3502,7 +3502,7 @@
 },
 {
 	"image_name": "art_painting/person/pic_255.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "smudges of color, undefined brush strokes",
 	"color_saturation": "low saturation, dull colors",
 	"color_shades": "no color shades",
@@ -3514,7 +3514,7 @@
 },
 {
 	"image_name": "art_painting/dog/pic_109.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "definite neat brush strokes",
 	"color_saturation": "mid saturation",
 	"color_shades": "light-nuance",
@@ -3526,7 +3526,7 @@
 },
 {
 	"image_name": "art_painting/person/pic_449.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "definite precise brush strokes",
 	"color_saturation": "mid saturation, vivid colors",
 	"color_shades": "colorful shades",
@@ -3538,7 +3538,7 @@
 },
 {
 	"image_name": "art_painting/person/pic_386.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "neat brush strokes",
 	"color_saturation": "low saturation, dull colors, light reflections",
 	"color_shades": "no color shades",
@@ -3550,7 +3550,7 @@
 },
 {
 	"image_name": "art_painting/house/pic_151.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "neat undefined brush strokes",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "colorful shades",
@@ -3562,7 +3562,7 @@
 },
 {
 	"image_name": "art_painting/horse/pic_148.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "precise definite brush strokes",
 	"color_saturation": "mid saturation",
 	"color_shades": "light-nuance",
@@ -3574,7 +3574,7 @@
 },
 {
 	"image_name": "art_painting/elephant/pic_105.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "definite brush strokes",
 	"color_saturation": "low saturation",
 	"color_shades": "light-nuance",
@@ -3586,7 +3586,7 @@
 },
 {
 	"image_name": "art_painting/dog/pic_018.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "neat brush strokes",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "colorful shades",
@@ -3598,7 +3598,7 @@
 },
 {
 	"image_name": "art_painting/person/pic_532.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "smudges of color, undefined brush strokes",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "colorful, strong-nuance",
@@ -3610,7 +3610,7 @@
 },
 {
 	"image_name": "art_painting/elephant/pic_071.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "neat precise brush strokes",
 	"color_saturation": "low saturation, bull colors",
 	"color_shades": "light-nuance",
@@ -3622,7 +3622,7 @@
 },
 {
 	"image_name": "art_painting/elephant/pic_049.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "definite precise brush strokes",
 	"color_saturation": "mid saturation, vivid colors",
 	"color_shades": "light-nuance",
@@ -3634,7 +3634,7 @@
 },
 {
 	"image_name": "art_painting/guitar/pic_013.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "definite precise brush strokes",
 	"color_saturation": "high saturation, vivid colors, light reflections",
 	"color_shades": "colorful shades",
@@ -3646,7 +3646,7 @@
 },
 {
 	"image_name": "art_painting/dog/pic_045.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "definite brush strokes",
 	"color_saturation": "mid saturation",
 	"color_shades": "light-nuance",
@@ -3658,7 +3658,7 @@
 },
 {
 	"image_name": "art_painting/house/pic_345.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "definite precise brush strokes",
 	"color_saturation": "mid saturation",
 	"color_shades": "light-nuance",
@@ -3670,7 +3670,7 @@
 },
 {
 	"image_name": "art_painting/dog/pic_185.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "light precise brush strokes",
 	"color_saturation": "mid saturation",
 	"color_shades": "light-nuance",
@@ -3682,7 +3682,7 @@
 },
 {
 	"image_name": "art_painting/person/pic_131.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "light definite brush strokes",
 	"color_saturation": "mid saturation, vivid colors",
 	"color_shades": "neat nuances",
@@ -3694,7 +3694,7 @@
 },
 {
 	"image_name": "art_painting/dog/pic_327.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "precise neat brush strokes",
 	"color_saturation": "mid saturation",
 	"color_shades": "light-nuance",
@@ -3706,7 +3706,7 @@
 },
 {
 	"image_name": "art_painting/person/pic_007.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "precise neat brush strokes",
 	"color_saturation": "mid saturation",
 	"color_shades": "light-nuance",
@@ -3718,7 +3718,7 @@
 },
 {
 	"image_name": "art_painting/guitar/pic_157.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "precise brush strokes",
 	"color_saturation": "low saturation, faded colors",
 	"color_shades": "light-nuance",
@@ -3742,7 +3742,7 @@
 },
 {
 	"image_name": "art_painting/dog/pic_021.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "light brush strokes, broken abstract line",
 	"color_saturation": "high saturation, vivid cold colors",
 	"color_shades": "light-nuance",
@@ -3754,7 +3754,7 @@
 },
 {
 	"image_name": "art_painting/dog/pic_413.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "definite precise brush strokes",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "precise light-nuance",
@@ -3766,7 +3766,7 @@
 },
 {
 	"image_name": "art_painting/dog/pic_219.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "definite precise brush strokes",
 	"color_saturation": "high saturation, warm colors",
 	"color_shades": "precise light-nuance",
@@ -3779,7 +3779,7 @@
 
 {
 	"image_name": "cartoon/dog/pic_125.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "neat strokes, solid line",
 	"color_saturation": "mid saturation",
 	"color_shades": "no color shades",
@@ -3791,7 +3791,7 @@
 },
 {
 	"image_name": "cartoon/dog/pic_303.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "unprecise strokes, sketchy line",
 	"color_saturation": "black and white",
 	"color_shades": "no color shades",
@@ -3803,7 +3803,7 @@
 },
 {
 	"image_name": "cartoon/horse/pic_053.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "neat definite strokes, solid line",
 	"color_saturation": "mid saturation, solid colors",
 	"color_shades": "no color shades",
@@ -3815,7 +3815,7 @@
 },
 {
 	"image_name": "cartoon/elephant/pic_272.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "precise neat strokes, light solid line",
 	"color_saturation": "mid saturation, solid cold colors",
 	"color_shades": "light-nuance",
@@ -3827,7 +3827,7 @@
 },
 {
 	"image_name": "cartoon/horse/pic_114.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "precise neat strokes, solid line",
 	"color_saturation": "mid saturation, solid colors",
 	"color_shades": "no color shades",
@@ -3839,7 +3839,7 @@
 },
 {
 	"image_name": "cartoon/elephant/pic_450.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "precise strokes, solid line",
 	"color_saturation": "mid saturation",
 	"color_shades": "light-nuance",
@@ -3851,7 +3851,7 @@
 },
 {
 	"image_name": "cartoon/dog/pic_039.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "precise strokes, solid line",
 	"color_saturation": "mid saturation, solid colors, light reflections",
 	"color_shades": "no color shades",
@@ -3863,7 +3863,7 @@
 },
 {
 	"image_name": "cartoon/horse/pic_268.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "definite neat strokes, solid line",
 	"color_saturation": "low saturation, light reflections, body shadow",
 	"color_shades": "light-nuance",
@@ -3875,7 +3875,7 @@
 },
 {
 	"image_name": "cartoon/horse/pic_001.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "precise neat strokes, solid line",
 	"color_saturation": "mid saturation, solid colors",
 	"color_shades": "light-nuance",
@@ -3887,7 +3887,7 @@
 },
 {
 	"image_name": "cartoon/giraffe/pic_033.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "precise strokes, light solid line",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "no color shades",
@@ -3899,7 +3899,7 @@
 },
 {
 	"image_name": "cartoon/horse/pic_051.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "neat strokes, solid line",
 	"color_saturation": "mid saturation, solid colors",
 	"color_shades": "no color shades",
@@ -3911,7 +3911,7 @@
 },
 {
 	"image_name": "cartoon/guitar/pic_089.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "precise strokes, solid line",
 	"color_saturation": "low saturation, light reflections",
 	"color_shades": "light-nuance",
@@ -3923,7 +3923,7 @@
 },
 {
 	"image_name": "cartoon/horse/pic_123.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "neat strokes, solid line",
 	"color_saturation": "mid saturation, solid colors",
 	"color_shades": "no color shades",
@@ -3935,7 +3935,7 @@
 },
 {
 	"image_name": "cartoon/giraffe/pic_254.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "neat strokes, light solid line",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "no color shades",
@@ -3947,7 +3947,7 @@
 },
 {
 	"image_name": "cartoon/dog/pic_262.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "precise neat strokes, solid line",
 	"color_saturation": "mid saturation",
 	"color_shades": "light-nuance",
@@ -3959,7 +3959,7 @@
 },
 {
 	"image_name": "cartoon/guitar/pic_100.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "unprecise strokes, solid sketchy line",
 	"color_saturation": "mid saturation, solid colors",
 	"color_shades": "no color shades",
@@ -3971,7 +3971,7 @@
 },
 {
 	"image_name": "cartoon/elephant/pic_355.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "neat strokes, solid line",
 	"color_saturation": "low saturation, solid colors",
 	"color_shades": "no color shades",
@@ -3983,7 +3983,7 @@
 },
 {
 	"image_name": "cartoon/elephant/pic_279.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "neat strokes, light solid line",
 	"color_saturation": "low saturation, solid colors",
 	"color_shades": "no color shades",
@@ -3995,7 +3995,7 @@
 },
 {
 	"image_name": "cartoon/horse/pic_008.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "precise neat strokes, solid line",
 	"color_saturation": "mid saturation, solid colors",
 	"color_shades": "light-nuance",
@@ -4007,7 +4007,7 @@
 },
 {
 	"image_name": "cartoon/guitar/pic_020.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "neat strokes, solid line",
 	"color_saturation": "low saturation, solid colors",
 	"color_shades": "no color shades",
@@ -4019,7 +4019,7 @@
 },
 {
 	"image_name": "cartoon/elephant/pic_244.jpg",
-	"details": "very low-level details",
+	"details": "very low level details",
 	"edges": "null strokes, overlapping figures",
 	"color_saturation": "mid saturation, solid colors",
 	"color_shades": "strong-nuance",
@@ -4031,7 +4031,7 @@
 },
 {
 	"image_name": "cartoon/giraffe/pic_186.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "definite strokes, light solid line",
 	"color_saturation": "mid saturation, solid colors",
 	"color_shades": "no color shades",
@@ -4043,7 +4043,7 @@
 },
 {
 	"image_name": "cartoon/giraffe/pic_157.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "null strokes",
 	"color_saturation": "high saturation, vivid colors, body shadow",
 	"color_shades": "no color shades",
@@ -4055,7 +4055,7 @@
 },
 {
 	"image_name": "cartoon/giraffe/pic_098.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "definite strokes, solid line",
 	"color_saturation": "low saturation, solid colors,  body shadow",
 	"color_shades": "light-nuance",
@@ -4067,7 +4067,7 @@
 },
 {
 	"image_name": "cartoon/elephant/pic_309.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "neat precise strokes, solid line",
 	"color_saturation": "high saturation, vivid colors",
 	"color_shades": "light-nuance",
@@ -4079,7 +4079,7 @@
 },
 {
 	"image_name": "photo/elephant/064_0078.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "null strokes, recognizable border color",
 	"color_saturation": "high saturation, solid color, body shadow",
 	"color_shades": "no color shades",
@@ -4091,7 +4091,7 @@
 },
 {
 	"image_name": "photo/person/253_0230.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "recognizable border, face outline",
 	"color_saturation": "mid saturation, body shadow",
 	"color_shades": "realistic shading",
@@ -4103,7 +4103,7 @@
 },
 {
 	"image_name": "photo/house/pic_261.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "recognizable border",
 	"color_saturation": "mid saturation",
 	"color_shades": "realistic shading",
@@ -4115,7 +4115,7 @@
 },
 {
 	"image_name": "photo/person/253_0259.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "recognizable border, face outline",
 	"color_saturation": "mid saturation, body shadow",
 	"color_shades": "realistic shading",
@@ -4127,7 +4127,7 @@
 },
 {
 	"image_name": "photo/horse/105_0134.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "recognizable border",
 	"color_saturation": "mid saturation",
 	"color_shades": "realistic shading",
@@ -4139,7 +4139,7 @@
 },
 {
 	"image_name": "photo/person/253_0152.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "recognizable border, face outline",
 	"color_saturation": "mid saturation, body shadow",
 	"color_shades": "realistic shading",
@@ -4151,7 +4151,7 @@
 },
 {
 	"image_name": "photo/house/pic_232.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "recognizable border",
 	"color_saturation": "mid saturation",
 	"color_shades": "realistic shading",
@@ -4163,7 +4163,7 @@
 },
 {
 	"image_name": "photo/guitar/n02676566_6150.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "recognizable border",
 	"color_saturation": "mid saturation",
 	"color_shades": "realistic shading",
@@ -4175,7 +4175,7 @@
 },
 {
 	"image_name": "photo/person/253_0369.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "recognizable border, face outline",
 	"color_saturation": "mid saturation, body shadow",
 	"color_shades": "realistic shading",
@@ -4187,7 +4187,7 @@
 },
 {
 	"image_name": "photo/guitar/063_0008.jpg",
-	"details": "high-level, cutted image",
+	"details": "high level, cutted image",
 	"edges": "recognizable border",
 	"color_saturation": "high saturation, solid colors",
 	"color_shades": "no color shades",
@@ -4199,7 +4199,7 @@
 },
 {
 	"image_name": "photo/guitar/n03467517_11020.jpg",
-	"details": "high-level, cutted image",
+	"details": "high level, cutted image",
 	"edges": "recognizable border",
 	"color_saturation": "high saturation, solid colors",
 	"color_shades": "realistic shading",
@@ -4211,7 +4211,7 @@
 },
 {
 	"image_name": "photo/house/pic_033.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "recognizable border",
 	"color_saturation": "mid saturation",
 	"color_shades": "realistic shading",
@@ -4223,7 +4223,7 @@
 },
 {
 	"image_name": "photo/dog/n02109525_6693.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "recognizable border",
 	"color_saturation": "mid saturation",
 	"color_shades": "realistic shading",
@@ -4235,7 +4235,7 @@
 },
 {
 	"image_name": "photo/house/pic_202.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "partially recognizable border",
 	"color_saturation": "mid saturation, cold colors",
 	"color_shades": "realistic shading",
@@ -4247,7 +4247,7 @@
 },
 {
 	"image_name": "photo/dog/056_0046.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "recognizable border, cutted image",
 	"color_saturation": "mid saturation",
 	"color_shades": "realistic shading",
@@ -4259,7 +4259,7 @@
 },
 {
 	"image_name": "photo/horse/105_0009.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "recognizable border, face outline",
 	"color_saturation": "mid saturation",
 	"color_shades": "realistic shading",
@@ -4271,7 +4271,7 @@
 },
 {
 	"image_name": "photo/person/253_0049.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "recognizable border, face outline",
 	"color_saturation": "mid saturation, body shadow",
 	"color_shades": "realistic shading",
@@ -4283,7 +4283,7 @@
 },
 {
 	"image_name": "photo/horse/105_0241.jpg",
-	"details": "low-level details",
+	"details": "low level details",
 	"edges": "recognizable border",
 	"color_saturation": "high saturation, body shadow",
 	"color_shades": "realistic shading",
@@ -4295,7 +4295,7 @@
 },
 {
 	"image_name": "photo/guitar/n02676566_5735.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "recognizable border",
 	"color_saturation": "mid saturation",
 	"color_shades": "realistic shading",
@@ -4307,7 +4307,7 @@
 },
 {
 	"image_name": "photo/person/253_0311.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "recognizable border, face outline",
 	"color_saturation": "mid saturation, body shadow",
 	"color_shades": "realistic shading",
@@ -4319,7 +4319,7 @@
 },
 {
 	"image_name": "photo/person/253_0214.jpg",
-	"details": "high-level details",
+	"details": "high level details",
 	"edges": "recognizable border, face outline",
 	"color_saturation": "mid saturation, body shadow",
 	"color_shades": "realistic shading",
@@ -4331,7 +4331,7 @@
 },
 {
 	"image_name": "photo/giraffe/084_0060.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "recognizable border, face outline, cutted image",
 	"color_saturation": "mid saturation",
 	"color_shades": "realistic shading",
@@ -4343,7 +4343,7 @@
 },
 {
 	"image_name": "photo/giraffe/084_0065.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "recognizable border, cutted image",
 	"color_saturation": "high saturation, vivid colors, body shadow",
 	"color_shades": "realistic shading",
@@ -4355,7 +4355,7 @@
 },
 {
 	"image_name": "photo/giraffe/084_0001.jpg",
-	"details": "mid-level details",
+	"details": "mid level details",
 	"edges": "recognizable border",
 	"color_saturation": "mid saturation, warm colors, body shadow",
 	"color_shades": "realistic shading",
@@ -4367,7 +4367,7 @@
 },
 {
 	"image_name": "sketch/dog/n02109525_3782-3.png",
-	"details": "low-level details, complete body",
+	"details": "low level details, complete body",
 	"edges": "unprecise strokes, unclosed sketchy line",
 	"color_saturation": "black and white",
 	"color_shades": "no color shades",
@@ -4379,7 +4379,7 @@
 },
 {
 	"image_name": "sketch/elephant/n02503517_9270-9.png",
-	"details": "low-level details, complete body",
+	"details": "low level details, complete body",
 	"edges": "unprecise strokes, solid sketchy line",
 	"color_saturation": "black and white",
 	"color_shades": "no color shades",
@@ -4391,7 +4391,7 @@
 },
 {
 	"image_name": "sketch/house/8832.png",
-	"details": "low-level details, complete body",
+	"details": "low level details, complete body",
 	"edges": "unprecise strokes, dashed sketchy line",
 	"color_saturation": "black and white",
 	"color_shades": "no color shades",
@@ -4403,7 +4403,7 @@
 },
 {
 	"image_name": "sketch/horse/n02374451_16948-9.png",
-	"details": "low-level details, complete body",
+	"details": "low level details, complete body",
 	"edges": "unprecise strokes, solid sketchy line",
 	"color_saturation": "black and white",
 	"color_shades": "no color shades",
@@ -4415,7 +4415,7 @@
 },
 {
 	"image_name": "sketch/dog/n02103406_7708-4.png",
-	"details": "very low-level details, complete body",
+	"details": "very low level details, complete body",
 	"edges": "unprecise strokes, unclosed sketchy line",
 	"color_saturation": "black and white",
 	"color_shades": "no color shades",
@@ -4427,7 +4427,7 @@
 },
 {
 	"image_name": "sketch/elephant/n02503517_9421-1.png",
-	"details": "very low-level details, complete body",
+	"details": "very low level details, complete body",
 	"edges": "confused unprecise strokes, unclosed twisted sketchy line",
 	"color_saturation": "black and white",
 	"color_shades": "no color shades",
@@ -4439,7 +4439,7 @@
 },
 {
 	"image_name": "sketch/dog/n02106662_928-5.png",
-	"details": "very low-level details, complete body",
+	"details": "very low level details, complete body",
 	"edges": "confused unprecise strokes, unclosed sketchy line",
 	"color_saturation": "black and white",
 	"color_shades": "no color shades",
@@ -4451,7 +4451,7 @@
 },
 {
 	"image_name": "sketch/giraffe/n02439033_8846-12.png",
-	"details": "low-level details, complete body",
+	"details": "low level details, complete body",
 	"edges": "unprecise strokes, solid sketchy line",
 	"color_saturation": "black and white",
 	"color_shades": "no color shades",
@@ -4463,7 +4463,7 @@
 },
 {
 	"image_name": "sketch/dog/5344.png",
-	"details": "very low-level details, complete body",
+	"details": "very low level details, complete body",
 	"edges": "unprecise strokes, light solid sketchy line",
 	"color_saturation": "black and white",
 	"color_shades": "no color shades",
@@ -4475,7 +4475,7 @@
 },
 {
 	"image_name": "sketch/elephant/n02503517_86-6.png",
-	"details": "low-level details, complete body",
+	"details": "low level details, complete body",
 	"edges": "unprecise strokes, solid sketchy line",
 	"color_saturation": "black and white",
 	"color_shades": "no color shades",
@@ -4487,7 +4487,7 @@
 },
 {
 	"image_name": "sketch/giraffe/n02439033_569-4.png",
-	"details": "very low-level details, complete body",
+	"details": "very low level details, complete body",
 	"edges": "unprecise strokes, solid sketchy line",
 	"color_saturation": "black and white",
 	"color_shades": "no color shades",
@@ -4499,7 +4499,7 @@
 },
 {
 	"image_name": "sketch/horse/n02374451_14233-4.png",
-	"details": "very low-level details, face",
+	"details": "very low level details, face",
 	"edges": "unprecise strokes, unclosed solid sketchy line",
 	"color_saturation": "black and white",
 	"color_shades": "no color shades",
@@ -4511,7 +4511,7 @@
 },
 {
 	"image_name": "sketch/elephant/n02503517_194-4.png",
-	"details": "low-level details, face",
+	"details": "low level details, face",
 	"edges": "unprecise strokes, unclosed solid sketchy line",
 	"color_saturation": "black and white",
 	"color_shades": "no color shades",
@@ -4523,7 +4523,7 @@
 },
 {
 	"image_name": "sketch/horse/n02374451_12847-4.png",
-	"details": "low-level details, complete body",
+	"details": "low level details, complete body",
 	"edges": "unprecise strokes, solid sketchy line",
 	"color_saturation": "black and white",
 	"color_shades": "no color shades",
@@ -4535,7 +4535,7 @@
 },
 {
 	"image_name": "sketch/horse/n02374451_7631-1.png",
-	"details": "low-level details, face",
+	"details": "low level details, face",
 	"edges": "unprecise strokes, unclosed solid sketchy line",
 	"color_saturation": "black and white",
 	"color_shades": "no color shades",
@@ -4547,7 +4547,7 @@
 },
 {
 	"image_name": "sketch/dog/n02103406_343-3.png",
-	"details": "low-level details, complete body",
+	"details": "low level details, complete body",
 	"edges": "unprecise strokes, solid sketchy line",
 	"color_saturation": "black and white",
 	"color_shades": "no color shades",
@@ -4559,7 +4559,7 @@
 },
 {
 	"image_name": "sketch/horse/n02374451_2233-4.png",
-	"details": "low-level details, complte body",
+	"details": "low level details, complte body",
 	"edges": "unprecise strokes, solid sketchy line",
 	"color_saturation": "black and white",
 	"color_shades": "no color shades",
@@ -4571,7 +4571,7 @@
 },
 {
 	"image_name": "sketch/guitar/n03467517_22246-2.png",
-	"details": "very low-level details, complte body",
+	"details": "very low level details, complte body",
 	"edges": "unprecise strokes, solid sketchy line",
 	"color_saturation": "black and white",
 	"color_shades": "no color shades",
@@ -4583,7 +4583,7 @@
 },
 {
 	"image_name": "sketch/giraffe/n02439033_10453-6.png",
-	"details": "very low-level details, face",
+	"details": "very low level details, face",
 	"edges": "unprecise strokes, unclosed solid sketchy line",
 	"color_saturation": "black and white",
 	"color_shades": "no color shades",
@@ -4595,7 +4595,7 @@
 },
 {
 	"image_name": "sketch/guitar/n03272010_7635-4.png",
-	"details": "very low-level details",
+	"details": "very low level details",
 	"edges": "unprecise strokes, solid wavy sketchy line",
 	"color_saturation": "black and white",
 	"color_shades": "no color shades",
@@ -4607,7 +4607,7 @@
 },
 {
 	"image_name": "sketch/horse/n02374451_8744-10.png",
-	"details": "low-level details, face",
+	"details": "low level details, face",
 	"edges": "unprecise strokes, unclosed solid sketchy line",
 	"color_saturation": "black and white",
 	"color_shades": "no color shades",
@@ -4619,7 +4619,7 @@
 },
 {
 	"image_name": "sketch/giraffe/n02439033_11130-2.png",
-	"details": "very low-level details, face",
+	"details": "very low level details, face",
 	"edges": "unprecise strokes, unclosed solid sketchy line",
 	"color_saturation": "black and white",
 	"color_shades": "no color shades",
@@ -4631,7 +4631,7 @@
 },
 {
 	"image_name": "sketch/elephant/n02503517_6479-3.png",
-	"details": "low-level details, cutted body",
+	"details": "low level details, cutted body",
 	"edges": "unprecise strokes, unclosed solid sketchy line",
 	"color_saturation": "black and white",
 	"color_shades": "no color shades",
@@ -4643,7 +4643,7 @@
 },
 {
 	"image_name": "sketch/giraffe/n02439033_12413-5.png",
-	"details": "very low-level details, cutted body",
+	"details": "very low level details, cutted body",
 	"edges": "unprecise strokes, unclosed solid sketchy line",
 	"color_saturation": "black and white",
 	"color_shades": "no color shades",

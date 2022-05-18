@@ -1,10 +1,3 @@
-photo/guitar/n03272010_6926.jpg : 2
-sketch/guitar/n03467517_16911-1.png : 2
-sketch/elephant/n02503517_8137-4.png : 2
-photo/person/253_0009.jpg : 2
-photo/house/pic_040.jpg : 2
-cartoon/dog/pic_062.jpg : 2
-art_painting/elephant/pic_026.jpg : 2
 sketch/giraffe/n02439033_10919-5.png : 1
 sketch/horse/n02374451_1234-2.png : 1
 sketch/dog/5290.png : 1
@@ -96,6 +89,7 @@ photo/horse/n02374451_18192.jpg : 1
 photo/person/253_0018.jpg : 1
 photo/elephant/064_0108.jpg : 1
 photo/guitar/063_0006.jpg : 1
+photo/guitar/n03272010_6926.jpg : 1
 photo/horse/n02374451_468.jpg : 1
 photo/dog/056_0023.jpg : 1
 photo/dog/056_0034.jpg : 1
@@ -121,6 +115,7 @@ sketch/elephant/n02503517_7393-3.png : 1
 sketch/guitar/n02676566_4469-4.png : 1
 sketch/guitar/7654.png : 1
 sketch/guitar/n02676566_8618-3.png : 1
+sketch/guitar/n03467517_16911-1.png : 1
 sketch/dog/n02103406_7708-10.png : 1
 sketch/dog/n02103406_4068-1.png : 1
 sketch/dog/n02103406_7708-2.png : 1
@@ -227,6 +222,7 @@ sketch/dog/n02103406_343-6.png : 1
 sketch/giraffe/n02439033_11683-5.png : 1
 sketch/guitar/7639.png : 1
 sketch/elephant/n02503517_10300-2.png : 1
+sketch/elephant/n02503517_8137-4.png : 1
 photo/dog/n02103406_5035.jpg : 1
 photo/person/253_0159.jpg : 1
 photo/dog/n02103406_4916.jpg : 1
@@ -251,6 +247,9 @@ photo/dog/n02109525_704.jpg : 1
 photo/guitar/063_0091.jpg : 1
 photo/person/253_0425.jpg : 1
 photo/person/253_0326.jpg : 1
+photo/person/253_0009.jpg : 1
+photo/house/pic_040.jpg : 1
+cartoon/dog/pic_062.jpg : 1
 cartoon/guitar/pic_082.jpg : 1
 cartoon/horse/pic_296.jpg : 1
 cartoon/elephant/pic_303.jpg : 1
@@ -273,6 +272,7 @@ cartoon/guitar/pic_140.jpg : 1
 cartoon/house/pic_201.jpg : 1
 cartoon/horse/pic_007.jpg : 1
 art_painting/giraffe/pic_117.jpg : 1
+art_painting/elephant/pic_026.jpg : 1
 art_painting/dog/pic_295.jpg : 1
 art_painting/person/pic_277.jpg : 1
 art_painting/guitar/pic_064.jpg : 1
