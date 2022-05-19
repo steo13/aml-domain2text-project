@@ -1,6 +1,6 @@
-without text : 341
+no text : 341
 single instance : 335
-without texture : 316
+no texture : 316
 no color shades : 177
 realistic perspective : 177
 unrealistic perspective : 172

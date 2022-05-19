@@ -1,4 +1,4 @@
-without : 657
+no : 912
 text : 400
 level : 395
 perspective : 395
@@ -10,7 +10,6 @@ single : 336
 instance : 335
 high : 261
 color : 258
-no : 255
 colorful : 242
 white : 237
 mid : 225
