@@ -33,7 +33,7 @@ instances : 58
 clearly : 57
 visible : 56
 recognizable : 51
-light : 43
+soft : 43
 semi-realistic : 41
 visibles : 41
 evident : 37
@@ -56,7 +56,7 @@ monochrome : 23
 with : 23
 sparse : 23
 neat : 23
-light-nuance : 23
+soft-nuance : 23
 in : 22
 shading : 22
 blurred : 21
@@ -86,7 +86,7 @@ nature : 9
 fully : 9
 easily : 8
 disproportionate : 8
-marked : 7
+rough : 7
 reflections : 7
 cutted : 7
 continous : 6
@@ -96,7 +96,7 @@ image : 6
 signature : 6
 exterior : 6
 completely : 5
-confused : 5
+woven : 5
 features : 5
 the : 5
 three : 5
@@ -129,7 +129,7 @@ small : 2
 indefinite : 2
 greenscale : 2
 blurry : 2
-light-brown : 2
+soft-brown : 2
 smudges : 2
 sky : 2
 strong-nuance : 2
@@ -154,7 +154,7 @@ semi-colorful : 1
 zigzag : 1
 obvious : 1
 always : 1
-unmarked : 1
+unrough : 1
 cream : 1
 pattern : 1
 five : 1

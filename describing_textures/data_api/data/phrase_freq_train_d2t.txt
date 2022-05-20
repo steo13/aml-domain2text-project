@@ -25,7 +25,7 @@ sparse text : 23
 precise edges : 23
 recognizable border : 22
 realistic shading : 22
-light-nuance : 21
+soft-nuance : 21
 monochrome background : 20
 with text : 17
 very low level details : 16
@@ -48,7 +48,7 @@ completely unrealistic perspective : 5
 three instances : 5
 definite : 5
 grayscale shades : 5
-light outlines : 5
+soft outlines : 5
 signature : 5
 precise neat strokes : 5
 footer text : 5
@@ -56,7 +56,7 @@ not recognizable edges : 4
 unrecognizable : 4
 very high level details : 4
 visible edges : 4
-green and light blue : 4
+green and soft blue : 4
 imprecise lines : 3
 broken sketch : 3
 black : 3
@@ -67,7 +67,7 @@ definite brush strokes : 3
 logo texture : 3
 null strokes : 3
 precise lines : 2
-light stroke : 2
+soft stroke : 2
 green : 2
 blue : 2
 shades of brown : 2
@@ -84,11 +84,11 @@ smudges of color : 2
 neat brush strokes : 2
 strong-nuance : 2
 precise neat brush strokes : 2
-precise light-nuance : 2
+precise soft-nuance : 2
 logo text : 2
 definite strokes : 2
 high level : 2
-confused unprecise strokes : 2
+woven unprecise strokes : 2
 well defined outlines : 1
 open outlines : 1
 continous lines : 1
@@ -102,7 +102,7 @@ good semi-realistic sketch : 1
 broken line at intervals : 1
 broken line in part of it : 1
 dashed line : 1
-confused features : 1
+woven features : 1
 outline not evident : 1
 dashed edges : 1
 interrupted sketch : 1
@@ -114,7 +114,7 @@ evident edges : 1
 discontinuous line in some parts : 1
 discontinuous line in half : 1
 edges and lines not evident and confusing : 1
-evident and marked edges : 1
+evident and rough edges : 1
 sharp edges : 1
 broken line : 1
 evident borders : 1
@@ -125,9 +125,9 @@ bright colors : 1
 confuse lines : 1
 bright and vivid colors : 1
 blurred but visible : 1
-not marked : 1
+not rough : 1
 shades grey : 1
-not too marked : 1
+not too rough : 1
 interrupted at times : 1
 green and blue : 1
 uncertain line : 1
@@ -140,19 +140,19 @@ white with shades of grey and green : 1
 zigzag lines : 1
 brown : 1
 white with shades of grey : 1
-confused and unrecognizable : 1
+woven and unrecognizable : 1
 shades of grey and green : 1
 very high saturation : 1
 obvious lines : 1
 not always recognizable : 1
 blurred lines : 1
 shades of blue : 1
-confused and not visible : 1
+woven and not visible : 1
 shades of black and red : 1
-but not marked : 1
+but not rough : 1
 shades of green and blue : 1
 not visible : 1
-unrecognizable and unmarked : 1
+unrecognizable and unrough : 1
 clear and precise edges : 1
 not clear edges : 1
 cream color with a black pattern : 1
@@ -165,9 +165,9 @@ continius lines : 1
 small lines : 1
 small and broken lines : 1
 bold lines : 1
-light lines : 1
-clear edges and light edges : 1
-light edges : 1
+soft lines : 1
+clear edges and soft edges : 1
+soft edges : 1
 stong edges : 1
 white with some yellow shades : 1
 shades of green and grey : 1
@@ -200,7 +200,7 @@ indefinite lines : 1
 definitre : 1
 zero : 1
 vivid colors : 1
-light reflections : 1
+soft reflections : 1
 definite lined : 1
 dark : 1
 dull colors : 1
@@ -218,7 +218,7 @@ some lines are overlayed : 1
 some features are less visible : 1
 half drawed : 1
 broken line in a some stroke : 1
-some lines are marked : 1
+some lines are rough : 1
 broken lines in a stroke : 1
 broken lines in a strokes : 1
 broken line in some strokes : 1
@@ -230,18 +230,18 @@ but not very clear in some strokes : 1
 mainly black : 1
 good level : 1
 not clear at the edges of the image : 1
-light blue : 1
+soft blue : 1
 not clear in some strokes : 1
 mainly grey : 1
 red and grey : 1
 white and brown : 1
 purple and black lines : 1
-light yellow : 1
+soft yellow : 1
 blue and green : 1
 but overlayed in some strokes : 1
 grey : 1
-white and different shades of light blue : 1
-light-brown : 1
+white and different shades of soft blue : 1
+soft-brown : 1
 many dfferent colors : 1
 different shades of blue : 1
 different shades of blue and green : 1
@@ -249,10 +249,10 @@ defined outlines : 1
 weak saturation : 1
 overlayed in some strokes : 1
 many different coloros : 1
-pink and light blue : 1
-light-brown and white : 1
+pink and soft blue : 1
+soft-brown and white : 1
 broken in the centre of the istance : 1
-blue and light blue : 1
+blue and soft blue : 1
 different shades of grey : 1
 quite-neat blending brush strokes : 1
 broken abstract line : 1
@@ -274,14 +274,14 @@ colorful : 1
 neat precise brush strokes : 1
 bull colors : 1
 no background : 1
-light precise brush strokes : 1
-light definite brush strokes : 1
+soft precise brush strokes : 1
+soft definite brush strokes : 1
 neat nuances : 1
 faded colors : 1
 mid : 1
-light undefined brush strokes : 1
+soft undefined brush strokes : 1
 warm colors : 1
-light brush strokes : 1
+soft brush strokes : 1
 vivid cold colors : 1
 fully realistic perspective : 1
 solid line : 1
@@ -289,7 +289,7 @@ sketchy line : 1
 fully disproportionate : 1
 neat definite strokes : 1
 solid colors : 1
-light solid line : 1
+soft solid line : 1
 solid cold colors : 1
 definite neat strokes : 1
 body shadow : 1
@@ -316,7 +316,7 @@ complete body : 1
 unclosed sketchy line : 1
 dashed sketchy line : 1
 unclosed twisted sketchy line : 1
-light solid sketchy line : 1
+soft solid sketchy line : 1
 face : 1
 unclosed solid sketchy line : 1
 complte body : 1
