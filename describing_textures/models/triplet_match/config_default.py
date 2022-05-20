@@ -9,14 +9,14 @@ C.EVAL_SPLIT = 'train' # eval
 
 C.LOAD_WEIGHTS = '/content/aml-domain2text-project/outputs/triplet_match/BEST_checkpoint.pth' # ''
 C.INIT_WORD_EMBED = 'rand'  # rand / fast_text
-C.LANG_INPUT = 'description'  # phrase
+C.LANG_INPUT = 'phrase'  # description
 
 # config for model
 C.MODEL = CN()
 C.MODEL.VEC_DIM = 256
 C.MODEL.IMG_FEATS = (2, 4)
 C.MODEL.LANG_ENCODER = 'bert'
-C.MODEL.DISTANCE = 'l2_s'  # l2, cos
+C.MODEL.DISTANCE = 'cos'  # l2, cos
 
 # config for loss
 C.LOSS = CN()
@@ -26,7 +26,7 @@ C.LOSS.IMG_SENT_WEIGHTS = (1.0, 1.0)
 # config for training
 C.TRAIN = CN()
 C.TRAIN.TUNE_RESNET = True
-C.TRAIN.TUNE_LANG_ENCODER = False # True
+C.TRAIN.TUNE_LANG_ENCODER = True
 C.TRAIN.BATCH_SIZE = 16
 C.TRAIN.MAX_EPOCH = 6
 C.TRAIN.CHECKPOINT_EVERY_EPOCH = 0.5
