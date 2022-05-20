@@ -174,7 +174,13 @@ def main():
     acc_only_texture_domain_embedding = float(correct_texture_domain_embedding.item() / len(dataset_test_target.dataset)) * 100
     print('Accuracy text_domain_embedding: %.2f ' % (acc_only_texture_domain_embedding))
 
+    print(w1_text)
+    print(w2_text)
+    print(w3_text)
 
+    print("A1", a1)
+    print("A2", a2)
+    print("A3", a3)
 
 if __name__ == '__main__':
     main()
