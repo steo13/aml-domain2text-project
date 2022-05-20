@@ -174,13 +174,12 @@ def main():
     acc_only_texture_domain_embedding = float(correct_texture_domain_embedding.item() / len(dataset_test_target.dataset)) * 100
     print('Accuracy text_domain_embedding: %.2f ' % (acc_only_texture_domain_embedding))
 
-    print(w1_text)
-    print(w2_text)
-    print(w3_text)
-
-    print("A1", a1)
-    print("A2", a2)
-    print("A3", a3)
+    list = {}
+    fd = open('average_distances', 'a')
+    list[args.target] = {sources[0]: w1_text, sources[1]: w2_text, sources[2]: w3_text}
+    fd.write(str(list).replace("'", '"')+'\n')
+    fd.close()
+    
 
 if __name__ == '__main__':
     main()

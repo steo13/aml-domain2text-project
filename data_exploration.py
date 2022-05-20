@@ -66,6 +66,48 @@ def genWordCloud(words_freqs):
     plt.axis('off')
     plt.show()
 
+def average_distances ():
+    bar_width = 0.25
+    labels = []
+    bars = {}
+    file = open('/content/average_distances', 'r')
+    for line in file:
+        dict = json.loads(line)
+        key = list(dict.keys())[0]
+        labels.append(key)
+        for domain in dict[key]:
+            if domain in bars:
+                bars[domain].append(dict[key][domain])
+            else:
+                bars[domain] = []
+                bars[domain].append(dict[key][domain])
+
+    r1 = [0, 2, 3]
+    r2 = [0 + bar_width, 1, 2 + bar_width]
+    r3 = [0 + 2*bar_width, 1 + bar_width, 3 + bar_width]
+    r4 = [1 + 2*bar_width, 2 + 2*bar_width, 3 + 2*bar_width]
+
+    plt.bar(r1, bars['Cartoon'], width=bar_width, edgecolor='white', color='lightsalmon', label='Cartoon')
+    plt.bar(r2, bars['Photo'], width=bar_width, edgecolor='white', color='lightskyblue', label='Photo')
+    plt.bar(r3, bars['Sketch'], width=bar_width, edgecolor='white', color='lightgrey', label='Sketch')
+    plt.bar(r4, bars['ArtPainting'], width=bar_width, edgecolor='white', color='greenyellow', label='ArtPainting')
+    
+    for index, value in enumerate(bars['Cartoon']):
+        plt.text(r1[index] - 0.12,  value + 0.01, float("{0:.2f}".format(value)), fontsize='small')
+    for index, value in enumerate(bars['Photo']):
+        plt.text(r2[index] - 0.12,  value + 0.01, float("{0:.2f}".format(value)), fontsize='small')
+    for index, value in enumerate(bars['Sketch']):
+        plt.text(r3[index] - 0.12,  value + 0.01, float("{0:.2f}".format(value)), fontsize='small')
+    for index, value in enumerate(bars['ArtPainting']):
+        plt.text(r4[index] - 0.12,  value + 0.01, float("{0:.2f}".format(value)), fontsize='small')
+
+    plt.xticks([r + bar_width for r in range(4)], ['ArtPainting', 'Cartoon', 'Sketch', 'Photo'])
+    plt.xlabel('Target domains', fontweight='bold')
+    plt.ylabel('Average distances from sources', fontweight='bold')
+    plt.grid(color='black', linestyle='--', linewidth=0.1)
+    plt.legend(loc='upper center', bbox_to_anchor=(0.5, 1.08), ncol=2, edgecolor="black")
+    plt.show()
+
 
 if __name__ == '__main__':
     # Open JSON file
@@ -79,6 +121,8 @@ if __name__ == '__main__':
     # WordCloud for each domain
     for domain in frequencies:
         genWordCloud(frequencies[domain])
+
+    average_distances()
 
     # barplot source (X) vs distances (Y)
     # genWordCloud()
