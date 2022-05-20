@@ -5,7 +5,7 @@ from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 import matplotlib.pyplot as plt
 import numpy as np
 
-DESCRIPTIONS_PATH = './' # "./describing_textures/data_api/data/"
+DESCRIPTIONS_PATH = './describing_textures/data_api/data/' # "./describing_textures/data_api/data/"
 DESCRIPTIONS_JSON = "image_labels_1-100.json"
 
 
@@ -70,7 +70,7 @@ def average_distances ():
     bar_width = 0.25
     labels = []
     bars = {}
-    file = open('/content/average_distances', 'r')
+    file = open('./average_distances', 'r')
     for line in file:
         dict = json.loads(line)
         key = list(dict.keys())[0]
@@ -101,11 +101,12 @@ def average_distances ():
     for index, value in enumerate(bars['ArtPainting']):
         plt.text(r4[index] - 0.12,  value + 0.01, float("{0:.2f}".format(value)), fontsize='small')
 
+    plt.figure()
     plt.xticks([r + bar_width for r in range(4)], ['ArtPainting', 'Cartoon', 'Sketch', 'Photo'])
     plt.xlabel('Target domains', fontweight='bold')
     plt.ylabel('Average distances from sources', fontweight='bold')
     plt.grid(color='black', linestyle='--', linewidth=0.1)
-    plt.legend(loc='upper center', bbox_to_anchor=(0.5, 1.08), ncol=2, edgecolor="black")
+    plt.legend(loc='upper center', bbox_to_anchor=(0.5, 1.15), ncol=4, title="Sources")
     plt.show()
 
 
