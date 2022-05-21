@@ -35,6 +35,7 @@ parser.add_argument('--path_to_txt', type=str,default='./aml-domain2text-project
 parser.add_argument('--path_to_dataset', type=str, default='./aml-domain2text-project/',help='path to the dataset')
 parser.add_argument('--num_classes', type=int, default=7, help='size for the crop')
 parser.add_argument('--gpu', type=int, default=0,help='gpu index')
+parser.add_argument('--checkpoint', type=str, default='./aml-domain2text-project/outputs/triplet_match/BEST_checkpoint.pth', help='path for your checkpoint file')
 args = parser.parse_args()
 
 torch.cuda.set_device(args.gpu)
@@ -97,7 +98,7 @@ def main():
     ########################### Computation of sources domain embeddings
     vec_dim = 256
     resnet101_texture_model = TripletMatch(vec_dim=vec_dim,distance='cos', img_feats=(2, 4))
-    model_path = './aml-domain2text-project/outputs/triplet_match/BEST_checkpoint.pth'
+    model_path = args.checkpoint
 
     resnet101_texture_model = resnet101_texture_model.cuda()
     resnet101_texture_model.load_state_dict(torch.load(model_path), strict=False)
@@ -175,7 +176,7 @@ def main():
     print('Accuracy text_domain_embedding: %.2f ' % (acc_only_texture_domain_embedding))
 
     list = {}
-    fd = open('average_distances', 'a')
+    fd = open('average_distances.txt', 'a')
     list[args.target] = {sources[0]: w1_text, sources[1]: w2_text, sources[2]: w3_text}
     fd.write(str(list).replace("'", '"')+'\n')
     fd.close()

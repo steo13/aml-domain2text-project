@@ -394,3 +394,7 @@ sketch/horse/n02374451_8744-10.png : 1
 sketch/giraffe/n02439033_11130-2.png : 1
 sketch/elephant/n02503517_6479-3.png : 1
 sketch/giraffe/n02439033_12413-5.png : 1
+art_painting/horse/pic_116.jpg : 1
+sketch/person/12200.png : 1
+photo/guitar/063_0023.jpg : 1
+cartoon/person/pic_079.jpg : 1

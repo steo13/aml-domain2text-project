@@ -1,23 +1,23 @@
-no text : 341
-single instance : 335
-no texture : 316
+no text : 344
+single instance : 338
+no texture : 319
 white : 196
 no color shades : 177
 realistic perspective : 177
 unrealistic perspective : 172
-low level details : 155
-colorful shades : 153
+low level details : 157
+colorful shades : 154
 high saturation : 151
-mid level details : 114
-mid saturation : 110
-high level details : 103
+mid level details : 115
+mid saturation : 111
+high level details : 104
 no color saturation : 76
-colorful background : 75
-painting texture : 73
+colorful background : 76
+painting texture : 74
 vivid colors : 59
 semi-realistic perspective : 40
 definite lines : 40
-multiple instances : 37
+multiple instances : 38
 clearly visibles : 31
 low saturation : 30
 dull colors : 29
@@ -37,10 +37,10 @@ solid line : 16
 solid colors : 16
 blurred lines : 15
 different colors : 15
+two instances : 14
 imprecise edges : 14
 visible lines : 14
 body shadow : 14
-two instances : 13
 precise brush strokes : 13
 complete body : 13
 recognizable edges : 12
@@ -50,6 +50,7 @@ colorful and interior background : 12
 brownscale shades : 11
 not clearly visibles : 10
 solid sketchy line : 10
+precise lines : 9
 face outline : 9
 clearly visible : 8
 not clear edges : 8
@@ -61,7 +62,6 @@ soft reflections : 7
 not visible edges : 7
 neat strokes : 7
 continous lines : 6
-precise lines : 6
 definite precise brush strokes : 6
 nature : 6
 logo text : 6
@@ -79,6 +79,9 @@ precise neat strokes : 5
 soft solid line : 5
 footer text : 5
 cutted image : 5
+imprecise lines : 4
+well defined outlines : 4
+monochrome : 4
 not recognizable edges : 4
 green : 4
 unrecognizable : 4
@@ -88,7 +91,8 @@ green and soft blue : 4
 some features are less visible : 4
 logo texture : 4
 exterior : 4
-imprecise lines : 3
+continuous lines : 4
+white background : 3
 broken sketch : 3
 broken line in part of it : 3
 black : 3
@@ -100,6 +104,11 @@ definite brush strokes : 3
 warm colors : 3
 null strokes : 3
 unclosed sketchy line : 3
+light lines : 3
+close outlines : 3
+no shades : 3
+heavy lines : 2
+no saturation : 2
 soft stroke : 2
 edges not evident : 2
 confuse lines : 2
@@ -116,6 +125,8 @@ imprecise strokes : 2
 broken line in a some stroke : 2
 blurry background : 2
 not very visible edges : 2
+defined outlines : 2
+weak saturation : 2
 different shades of brown : 2
 broken abstract line : 2
 smudges of color : 2
@@ -131,12 +142,8 @@ high level : 2
 woven unprecise strokes : 2
 complte body : 2
 cutted body : 2
-well defined outlines : 1
+unrealistic : 2
 open outlines : 1
-heavy lines : 1
-no saturation : 1
-white background : 1
-monochrome : 1
 lines not evident : 1
 dashed at times : 1
 good semi-realistic sketch : 1
@@ -267,8 +274,6 @@ soft-brown : 1
 many dfferent colors : 1
 different shades of blue : 1
 different shades of blue and green : 1
-defined outlines : 1
-weak saturation : 1
 overlayed in some strokes : 1
 many different coloros : 1
 pink and soft blue : 1
@@ -322,3 +327,8 @@ dashed sketchy line : 1
 unclosed twisted sketchy line : 1
 soft solid sketchy line : 1
 solid wavy sketchy line : 1
+generic text : 1
+semi realistic : 1
+detailed background : 1
+realistic : 1
+strong saturation : 1

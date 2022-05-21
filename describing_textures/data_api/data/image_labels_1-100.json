@@ -4652,5 +4652,53 @@
 	"text": "no text",
 	"texture": "no texture",
 	"perspective": "realistic perspective"
+},
+{
+	"image_name":"art_painting/horse/pic_116.jpg",
+	"details":"mid level details",
+	"edges":"defined outlines, precise lines, continuous lines, light lines, close outlines",
+	"color_saturation":"weak saturation",
+	"color_shades":"colorful shades",
+	"background":"colorful background",
+	"single_instance":"single instance",
+	"text":"generic text",
+	"texture":"painting texture",
+	"perspective":"semi realistic"
+}, 
+{
+	"image_name":"sketch/person/12200.png",
+	"details":"low level details",
+	"edges":"close outlines, light lines, continuous lines, imprecise lines, well defined outlines",
+	"color_saturation":"no saturation",
+	"color_shades":"no shades",
+	"background":"monochrome, white background",
+	"single_instance":"single instance",
+	"text":"no text",
+	"texture":"no texture",
+	"perspective":"unrealistic"
+},
+{
+	"image_name":"photo/guitar/063_0023.jpg",
+	"details":"high level details",
+	"edges":"close outlines, light lines, continuous lines, precise lines, well defined outlines",
+	"color_saturation":"mid saturation",
+	"color_shades":"no shades",
+	"background":"monochrome, detailed background",
+	"single_instance":"multiple instances, two instances",
+	"text":"no text",
+	"texture":"no texture",
+	"perspective":"realistic"
+}, 
+{
+	"image_name":"cartoon/person/pic_079.jpg",
+	"details":"low level details",
+	"edges":"well defined outlines, precise lines, continuous lines, heavy lines",
+	"color_saturation":"strong saturation",
+	"color_shades":"no shades",
+	"background":"monochrome, white background",
+	"single_instance":"single instance",
+	"text":"no text",
+	"texture":"no texture",
+	"perspective":"unrealistic"
 }]
 	
