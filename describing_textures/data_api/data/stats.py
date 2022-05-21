@@ -5,7 +5,7 @@ from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 import matplotlib.pyplot as plt
 
 # Path for all the files
-IMAGE_LABELS = './describing_textures/data_api/data/image_labels_1-100.json'
+IMAGE_LABELS = './describing_textures/data_api/data/image_labels_1-130.json'
 IMAGE_FREQUENCIES = './describing_textures/data_api/data/stats/image_frequencies.txt'
 IMAGE_DESCRIPTIONS = './describing_textures/data_api/data/image_descriptions.json'
 IMAGE_SPLITS = './describing_textures/data_api/data/image_splits.json'
