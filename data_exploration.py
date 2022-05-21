@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 AVERAGE_DISTANCES_FILE = './average_distances.txt'
 
 def average_distances ():
+    plt.figure(figsize=(10, 8))
     bar_width = 0.25
     labels = []
     bars = {}
@@ -48,6 +49,7 @@ def average_distances ():
 
 if __name__ == '__main__':
     # Plot the average distances between domains
+    print("Average distances from Source to Target domains\n")
     average_distances()
 
     # PCA(m=2) for each domain
