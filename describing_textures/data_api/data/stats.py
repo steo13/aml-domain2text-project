@@ -5,7 +5,7 @@ from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 import matplotlib.pyplot as plt
 
 # Path for all the files
-IMAGE_LABELS = './describing_textures/data_api/data/image_labels_1-130.json'
+IMAGE_LABELS = './describing_textures/data_api/data/image_labels_1-100.json'
 IMAGE_FREQUENCIES = './describing_textures/data_api/data/stats/image_frequencies.txt'
 IMAGE_DESCRIPTIONS = './describing_textures/data_api/data/image_descriptions.json'
 IMAGE_SPLITS = './describing_textures/data_api/data/image_splits.json'
@@ -158,7 +158,7 @@ def words_freq_for_cloud(_descriptions_):
     return word_list
 
 # Generate the wordcloud for each domain
-def gen_word_cloud(words_freqs):
+def gen_word_cloud(words_freqs, domain):
     text = ''
     for word in words_freqs:
         text += word + ' '
@@ -175,6 +175,7 @@ def gen_word_cloud(words_freqs):
 
     wordcloud_spa = WordCloud(stopwords=stopwords, background_color='white', max_words=2000).generate(text)
     plt.figure(figsize=[7, 7])
+    plt.title(domain)
     plt.imshow(wordcloud_spa, interpolation='bilinear')
     plt.axis('off')
     plt.show()
@@ -238,4 +239,4 @@ if __name__ == '__main__':
     descriptions = generate_descriptions(data, 'cloud')
     frequencies = words_freq_for_cloud(descriptions)
     for domain in frequencies:
-        gen_word_cloud(frequencies[domain])
+        gen_word_cloud(frequencies[domain], domain)
