@@ -109,7 +109,6 @@ def main():
     ###### sources domain embeddings
     sources_domain_embeddings_textual = np.zeros((3, vec_dim))
 
-
     for n_source, source in enumerate(sources):
 
         source_txt = args.path_to_txt + '/' + source + '.txt'
@@ -131,6 +130,10 @@ def main():
     correct_texture_domain_embedding = 0
 
     softmax = nn.Softmax(dim=-1)
+
+    w1 = []
+    w2 = []
+    w3 = []
 
     print('Evaluation on the Target domain - %s' % (args.target))
     with torch.no_grad():
@@ -164,8 +167,11 @@ def main():
             a2 = sources_domain_embeddings_textual[1]
             a3 = sources_domain_embeddings_textual[2]
             w1_text = cosine_sim(a1,b)
+            w1.append(w1_text)
             w2_text = cosine_sim(a2,b)
+            w2.append(w2_text)
             w3_text = cosine_sim(a3,b)
+            w3.append(w3_text)
             pred_only_texture_domain_embedding = ((w1_text * out1 + w2_text * out2 + w3_text * out3) / (w1_text + w2_text + w3_text)).data.max(1)[1]
             correct_texture_domain_embedding += pred_only_texture_domain_embedding.eq(label.data).cpu().sum()
 
@@ -177,7 +183,7 @@ def main():
 
     list = {}
     fd = open('average_distances.txt', 'a')
-    list[args.target] = {sources[0]: w1_text, sources[1]: w2_text, sources[2]: w3_text}
+    list[args.target] = {sources[0]: sum(w1)/len(w1), sources[1]: sum(w2)/len(w2), sources[2]: sum(w3)/len(w3)}
     fd.write(str(list).replace("'", '"')+'\n')
     fd.close()
     
