@@ -20,7 +20,7 @@ In order to reproduce the values reported in the table (see section 1 of the [pr
 ## Students
 The project was developed by:
 - Stefano Rainò, s282436
-- Alberto Castrignanò, sXXXXXX
+- Alberto Castrignanò, s281689
 - Michele Masciavè, s279110
 - Lorenzo Mercurio, s290903
 
