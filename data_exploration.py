@@ -25,10 +25,10 @@ def average_distances ():
     r3 = [0 + 2*bar_width, 1 + bar_width, 3 + bar_width]
     r4 = [1 + 2*bar_width, 2 + 2*bar_width, 3 + 2*bar_width]
 
-    plt.bar(r1, bars['Cartoon'], width=bar_width, edgecolor='white', color='lightsalmon', label='Cartoon')
-    plt.bar(r2, bars['Photo'], width=bar_width, edgecolor='white', color='lightskyblue', label='Photo')
-    plt.bar(r3, bars['Sketch'], width=bar_width, edgecolor='white', color='lightgrey', label='Sketch')
-    plt.bar(r4, bars['ArtPainting'], width=bar_width, edgecolor='white', color='greenyellow', label='ArtPainting')
+    plt.bar(r1, bars['Cartoon'], width=bar_width, edgecolor='white', color='green', label='Cartoon')
+    plt.bar(r2, bars['Photo'], width=bar_width, edgecolor='white', color='yellow', label='Photo')
+    plt.bar(r3, bars['Sketch'], width=bar_width, edgecolor='white', color='blue', label='Sketch')
+    plt.bar(r4, bars['ArtPainting'], width=bar_width, edgecolor='white', color='red', label='ArtPainting')
     
     for index, value in enumerate(bars['Cartoon']):
         plt.text(r1[index] - 0.12,  value + 0.01, float("{0:.2f}".format(value)), fontsize='small')
@@ -41,7 +41,7 @@ def average_distances ():
 
     plt.xticks([r + bar_width for r in range(4)], ['ArtPainting', 'Cartoon', 'Sketch', 'Photo'])
     plt.xlabel('Target domains', fontweight='bold')
-    plt.ylabel('Average distances from sources', fontweight='bold')
+    plt.ylabel('Average similarities from sources', fontweight='bold')
     plt.grid(color='black', linestyle='--', linewidth=0.1)
     plt.legend(loc='upper center', bbox_to_anchor=(0.5, 1.15), ncol=4, title="Sources")
     plt.show()
