@@ -57,12 +57,12 @@ def train():
                                neg_lang=cfg.LOSS.IMG_SENT_WEIGHTS[1] > 0, lang_input=cfg.LANG_INPUT)
     data_loader = DataLoader(dataset, batch_size=cfg.TRAIN.BATCH_SIZE, shuffle=True, drop_last=True, pin_memory=True)
 
-    #creazione del dataset di immagini
+    # creazione del dataset di immagini
     img_datset = ImgOnlyDataset(split=cfg.EVAL_SPLIT, transform=build_transforms(is_train=False),
                                 texture_dataset=dataset)
     eval_img_dataloader = DataLoader(img_datset, batch_size=1, shuffle=False)
 
-    #creazione del dataset di frasi
+    # creazione del dataset di frasi
     phrase_dataset = PhraseOnlyDataset(texture_dataset=dataset)
     eval_phrase_dataloader = DataLoader(phrase_dataset, batch_size=32, shuffle=False)
 
@@ -72,9 +72,9 @@ def train():
                                        lang_encoder_method=cfg.MODEL.LANG_ENCODER, word_encoder=word_encoder)
 
     if cfg.INIT_WORD_EMBED != 'rand' and cfg.MODEL.LANG_ENCODER in ['mean', 'lstm']:
-        #embedding pretrainato per le parole presenti nel dataset pretrainato, per le altre, embedding random
+        # embedding pretrainato per le parole presenti nel dataset pretrainato, per le altre, embedding random
         word_emb = get_word_embed(word_encoder.word_list, cfg.INIT_WORD_EMBED)
-        #si copia i pesi di word_embed e li associa al modello
+        # si copia i pesi di word_embed e li associa al modello
         model.lang_embed.embeds.weight.data.copy_(torch.from_numpy(word_emb))
     if len(cfg.LOAD_WEIGHTS) > 0:
         model.load_state_dict(torch.load(cfg.LOAD_WEIGHTS), strict=False)
@@ -90,7 +90,7 @@ def train():
         model.lang_embed.requires_grad = False
         model.lang_embed.eval()
 
-    #utilizza come ottimizzatore Adam
+    # utilizza come ottimizzatore Adam
     optimizer = torch.optim.Adam(filter(lambda p: p.requires_grad, model.parameters()),
                                  lr=cfg.TRAIN.INIT_LR, weight_decay=cfg.TRAIN.WEIGHT_DECAY,
                                  betas=(cfg.TRAIN.ADAM.ALPHA, cfg.TRAIN.ADAM.BETA),

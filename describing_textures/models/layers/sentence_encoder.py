@@ -8,7 +8,7 @@ from transformers import BertTokenizer, BertModel
 from data_api.dataset_api import WordEncoder
 from models.layers.util import print_tensor_stats
 
-#creazione dell'encoder
+# Encoder creation
 def make_encoder(method, word_emb_dim=0, word_encoder=None):
     if method == 'mean':
         return MeanEncoder(word_emb_dim=word_emb_dim, word_encoder=word_encoder)
@@ -21,7 +21,7 @@ def make_encoder(method, word_emb_dim=0, word_encoder=None):
     else:
         raise NotImplementedError
 
-#MeanPooling encoder, vedere paper pag.8
+# MeanPooling encoder, paper pag.8
 class MeanEncoder(nn.Module):
     def __init__(self, word_emb_dim, word_encoder=None):
         super(MeanEncoder, self).__init__()
@@ -58,7 +58,7 @@ class MeanEncoder(nn.Module):
         mean_embed = sum_embed / sent_lengths.unsqueeze(-1).float()  # B x E
         return mean_embed
 
-#LSTM encoder, vedere paper pag. 8
+# LSTM encoder, paper pag. 8
 class LSTMEncoder(nn.Module):
     def __init__(self, word_emb_dim, hidden_dim=256, bi_direct=True, word_encoder=None):
         super(LSTMEncoder, self).__init__()
@@ -91,7 +91,7 @@ class LSTMEncoder(nn.Module):
         # print_tensor_stats(sent_embs, 'sent_embs')
         return sent_embs
 
-#Elmo encoder, vedere paper pag. 8
+#Elmo encoder, paper pag. 8
 class ElmoEncoder(nn.Module):
     def __init__(self, options_file="cache/elmo/elmo_2x4096_512_2048cnn_2xhighway_options.json",
                  weight_file="cache/elmo/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5"):
@@ -127,7 +127,7 @@ class ElmoEncoder(nn.Module):
         sent_embs = torch.stack(sent_emb_list, dim=0)  # B x 1024
         return sent_embs
 
-#Bert encoder, vedere paper pag. 8
+# Bert encoder, pag. 8
 class BertEncoder(nn.Module):
     def __init__(self):
         super(BertEncoder, self).__init__()

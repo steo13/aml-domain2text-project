@@ -8,7 +8,7 @@ from models.layers.util import print_tensor_stats
 class TripletMatch(nn.Module):
     # vec_dim               additional linear layer dimension relative to the size of the mapping (R^256 by default)
     # distance              distance metric (L2^2 by default, i.e. quadratic euclidean distance)
-    # neg_marign            ?
+    # neg_margin            margin for negative item
     # img_feats             ResNet101 layers from which extract the features (2,4 by default)
     # lang_encoder_method   language (phrase/description) encoder method (BERT, by default)
     # word_emb_dim          final size of the word encoding space (R^300, by default)
@@ -31,8 +31,8 @@ class TripletMatch(nn.Module):
         else:
             raise NotImplementedError
 
-        self.resnet_encoder = ResnetEncoder(use_feats=img_feats)    #codificatore ResNet
-        self.lang_embed = make_encoder(lang_encoder_method, word_emb_dim, word_encoder)     #creazione dell'encoder (default BERT)
+        self.resnet_encoder = ResnetEncoder(use_feats=img_feats)
+        self.lang_embed = make_encoder(lang_encoder_method, word_emb_dim, word_encoder)
         self.img_encoder = nn.Sequential(self.resnet_encoder, nn.Linear(self.resnet_encoder.out_dim, vec_dim))
         self.lang_encoder = nn.Sequential(self.lang_embed, nn.Linear(self.lang_embed.out_dim, vec_dim))
         return

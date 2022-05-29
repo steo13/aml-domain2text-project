@@ -20,7 +20,7 @@ TEST = 0
 VAL = 0
 
 # Count phrases frequency
-# * return couples (phrase, count)
+# @ return couples (phrase, count)
 def phrase_freq(file):
     phrase_list = {}
     for row in file:
@@ -35,7 +35,7 @@ def phrase_freq(file):
 
 
 # Count words frequency
-# * return couples (word, count)
+# @ return couples (word, count)
 def word_freq(file):
     word_list = {}
     for row in file:
@@ -49,7 +49,7 @@ def word_freq(file):
 
 
 # Count phrases frequency on training set
-# * return couples (phrase, count)
+# @ return couples (phrase, count)
 def phrase_freq_train (file, file_train):
     train_set = file_train['train']
     phrase_list = {}
@@ -68,7 +68,7 @@ def phrase_freq_train (file, file_train):
 
 
 # Count words frequency on training set
-# * return couples (word, count)
+# @ return couples (word, count)
 def words_freq_train (file, file_train):
     train_set = file_train['train']
     word_list = {}
@@ -112,7 +112,7 @@ def generate_splits(tr, te, val):
         return json.dumps(dict)
 
 # Generate the file with all the descriptions of the images
-# * return {'image_name': '/path', 'category': '', 'description': ['...details', '... edges', '...']}
+# @ return {'image_name': '/path', 'category': '', 'description': ['...details', '... edges', '...']}
 def generate_descriptions(file, version='default'):
     list_obj = []
     for row in file:
@@ -128,8 +128,8 @@ def generate_descriptions(file, version='default'):
         return list_obj
 
 # Count the images in the file
-# * return the image list sorted by the frequency
-def generate_frequencies (file):
+# @ return the image list sorted by the frequency
+def generate_frequencies(file):
     image_list = {}
     for row in file:
         if row['image_name'] in image_list:
@@ -139,7 +139,7 @@ def generate_frequencies (file):
     return sorted(image_list.items(), key=lambda x:x[1], reverse=True)
 
 # Count words frequency
-# * return couples (word, count)
+# @ return couples (word, count)
 def words_freq_for_cloud(_descriptions_):
     word_list = {
         "sketch": {},
@@ -183,17 +183,20 @@ def gen_word_cloud(words_freqs, domain):
 
 
 if __name__ == '__main__':
+    # Generate <image, count> txt
     image_frequencies = generate_frequencies(json.load(open(IMAGE_LABELS, 'r')))
     fd = open(IMAGE_FREQUENCIES, 'w')
     for pair in image_frequencies:
         fd.write(str(pair[0])+' : '+str(pair[1])+'\n')
     fd.close()
-    
+
+    # Generate file with descriptions
     image_descriptions = generate_descriptions(json.load(open(IMAGE_LABELS, 'r')))
     fd = open(IMAGE_DESCRIPTIONS, 'w')
     fd.write(str(image_descriptions))
     fd.close()
 
+    # Generate splits between train, test and validation
     image_splits = generate_splits(TRAIN, TEST, VAL)
     fd = open(IMAGE_SPLITS, 'w')
     fd.write(str(image_splits))
@@ -202,7 +205,7 @@ if __name__ == '__main__':
     file_descriptions = json.load(open(IMAGE_DESCRIPTIONS, 'r'))
     file_splits = json.load(open(IMAGE_SPLITS, 'r'))
 
-    # write phrases frequency into a txt
+    # Write phrases frequency into a txt
     # format phrase : freq
     image_phrase_freq = phrase_freq(file_descriptions)
     fd = open(PHRASE_FREQUENCY, 'w')
@@ -210,7 +213,7 @@ if __name__ == '__main__':
         fd.write(str(pair[0])+' : '+str(pair[1])+'\n')
     fd.close()
 
-    # write words frequency into a txt
+    # Write words frequency into a txt
     # format word : freq
     image_word_freq = word_freq(file_descriptions)
     fd = open(WORD_FREQUENCY, 'w')
@@ -218,7 +221,7 @@ if __name__ == '__main__':
         fd.write(str(pair[0])+' : '+str(pair[1])+'\n')
     fd.close()
 
-    # write training phrases frequency into a txt
+    # Write training phrases frequency into a txt
     # format phrase : freq
     image_phrase_freq_train = phrase_freq_train(file_descriptions, file_splits)
     fd = open(PHRASE_FREQUENCY_TRAINING, 'w')
@@ -226,7 +229,7 @@ if __name__ == '__main__':
         fd.write(str(pair[0])+' : '+str(pair[1])+'\n')
     fd.close()
     
-    # write training words frequency into a txt
+    # Write training words frequency into a txt
     # format word : freq
     image_word_freq_train = words_freq_train(file_descriptions, file_splits)
     fd = open(WORD_FREQUENCY_TRAINING, 'w')
@@ -234,8 +237,10 @@ if __name__ == '__main__':
         fd.write(str(pair[0])+' : '+str(pair[1])+'\n')
     fd.close()
 
+    # Generate WordClouds
     fd = open(IMAGE_LABELS)
     data = json.load(fd)
+    fd.close()
     descriptions = generate_descriptions(data, 'cloud')
     frequencies = words_freq_for_cloud(descriptions)
     for domain in frequencies:

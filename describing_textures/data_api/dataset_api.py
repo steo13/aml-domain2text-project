@@ -14,7 +14,7 @@ img_path = './aml-domain2text-project/describing_textures/data_api/data/images'
 
 ########################################################
 ##                   DESCRIPTION DATASET              ##
-# ######################################################
+########################################################
 
 class TextureDescriptionData:
     def __init__(self, phrase_split='train', phrase_freq_thresh=10, phid_format='set'):
@@ -24,6 +24,11 @@ class TextureDescriptionData:
 
         #with open(os.path.join(self.data_path, 'image_splits.json'), 'r') as f:
         # load images path beloging to the set under analysis
+        # cfg.FILE_SPLITS = {
+        #   "test": [],
+        #   "val": [],
+        #   "train": ["photo/house/pic_051.jpg", "photo/guitar/063_0006.jpg",...]
+        # }
         with open(os.path.join(self.data_path, cfg.FILE_SPLITS), 'r') as f:
             self.img_splits = json.load(f)
 
