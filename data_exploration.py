@@ -85,19 +85,28 @@ def PCA_embedding():
     PCA_df = pd.concat(final_df, ignore_index=True)
     # export as csv file more analysis
     PCA_df.to_csv(PACS_EMBEDDING_FOLDER+'PACS_PCA.csv')
+    print("\Navigate through 3-PCA PACS embedding!\n")
     # express plot
-    fig = px.scatter_3d(PCA_df, x='PC1', y='PC2', z='PC3', color='Target')
+    color_discrete_map = {'ArtPainting': 'rgb(255,0,0)', 'Cartoon': 'rgb(0,128,0)', 'Sketch': 'rgb(0,0,255)', 'Photo': 'rgb(255,255,51)'}
+    fig = px.scatter_3d(
+      PCA_df,
+      x='PC1', 
+      y='PC2', 
+      z='PC3', 
+      color='Target',
+      opacity=0.7,
+      color_discrete_map=color_discrete_map
+    )
     fig.update_traces(marker_size=2)
     fig.show()
-
     # matplotlib plot
+    print("\Static view of 3-PCA PACS embedding!\n")
     fig = plt.figure(figsize=(8, 8))
     ax = fig.add_subplot(projection='3d')
     ax.set_xlabel('PC1', fontsize=15)
     ax.set_ylabel('PC2', fontsize=15)
     ax.set_zlabel('PC3', fontsize=15)
-    ax.set_title('3 component PCA', fontsize=15)
-
+    ax.set_title('3 components PCA', fontsize=15)
     for (index, f_df) in enumerate(final_df):
         ax.scatter(f_df.loc[:, 'PC1'], f_df.loc[:, 'PC2'], f_df.loc[:, 'PC3'], c=COLORS[index], s=2)
     ax.legend(DOMAINS)
@@ -108,7 +117,6 @@ if __name__ == '__main__':
     # Plot the average distances between domains
     print("Average similarities from Source to Target domains\n")
     average_similarities()
-
     # plot PCA
     print("\nPCA applied on the embeddings of PACS dataset\n")
     PCA_embedding()
