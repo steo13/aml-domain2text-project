@@ -19,7 +19,7 @@ In order to reproduce the values reported in the table (see section 1 of the [pr
 
 ## Report
 
-For a complete description of the project download the [report.pdf](https://github.com/steo13/aml-domain2text-project/blob/main/report.pdf) from this repository.
+For a complete description of the project download the [report.pdf](https://github.com/steo13/aml-domain2text-project/blob/main/paper.pdf) from this repository.
 
 ## Students
 The project was developed by:
