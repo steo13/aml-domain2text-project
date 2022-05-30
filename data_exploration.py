@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 
 from sklearn.decomposition import PCA
 import pandas as pd
+import plotly.express as px
 
 AVERAGE_SIMILARITIES_FILE = './average_similarities.txt'
 PACS_EMBEDDING_FOLDER = './aml-domain2text-project/PACS_embeddings/'
@@ -81,9 +82,15 @@ def PCA_embedding():
         final_df.append(local_final_df)
     
     # PCA-3 aggregated and to csv
-    pd.concat(final_df, ignore_index=True).to_csv(PACS_EMBEDDING_FOLDER+'PACS_PCA.csv')
+    PCA_df = pd.concat(final_df, ignore_index=True)
+    # export as csv file more analysis
+    PCA_df.to_csv(PACS_EMBEDDING_FOLDER+'PACS_PCA.csv')
+    # express plot
+    fig = px.scatter_3d(PCA_df, x='PC1', y='PC2', z='PC3', color='Target')
+    fig.update_traces(marker_size=2)
+    fig.show()
 
-     # plot
+    # matplotlib plot
     fig = plt.figure(figsize=(8, 8))
     ax = fig.add_subplot(projection='3d')
     ax.set_xlabel('PC1', fontsize=15)
