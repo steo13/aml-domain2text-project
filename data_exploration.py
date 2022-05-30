@@ -100,7 +100,7 @@ def PCA_embedding():
 if __name__ == '__main__':
     # Plot the average distances between domains
     print("Average similarities from Source to Target domains\n")
-    #average_similarities()
+    average_similarities()
 
     # plot PCA
     print("PCA applied on the embeddings of PACS dataset\n")
