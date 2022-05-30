@@ -85,7 +85,7 @@ def PCA_embedding():
     PCA_df = pd.concat(final_df, ignore_index=True)
     # export as csv file more analysis
     PCA_df.to_csv(PACS_EMBEDDING_FOLDER+'PACS_PCA.csv')
-    print("\Navigate through 3-PCA PACS embedding!\n")
+    print("Navigate through 3-PCA PACS embedding!\n")
     # express plot
     color_discrete_map = {'ArtPainting': 'rgb(255,0,0)', 'Cartoon': 'rgb(0,128,0)', 'Sketch': 'rgb(0,0,255)', 'Photo': 'rgb(255,255,51)'}
     fig = px.scatter_3d(
@@ -100,7 +100,7 @@ def PCA_embedding():
     fig.update_traces(marker_size=2)
     fig.show()
     # matplotlib plot
-    print("\Static view of 3-PCA PACS embedding!\n")
+    print("\nStatic view of 3-PCA PACS embedding!\n")
     fig = plt.figure(figsize=(8, 8))
     ax = fig.add_subplot(projection='3d')
     ax.set_xlabel('PC1', fontsize=15)
