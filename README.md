@@ -13,9 +13,13 @@ In order to reproduce the values reported in the table (see section 1 of the [pr
 
 ## Environment
 
-1) All the requirements for the project are listed under the file [requirements.txt](https://github.com/steo13/aml-domain2text-project/blob/main/requirements.txt)
-2) In the folder [describing_textures](https://github.com/steo13/aml-domain2text-project/tree/main/describing_textures) there is the model used to get the new weights
+1) All the requirements for the project are listed under the file [requirements.txt](https://github.com/steo13/aml-domain2text-project/blob/main/requirements.txt);
+2) In the folder [describing_textures](https://github.com/steo13/aml-domain2text-project/tree/main/describing_textures) there is the model used to get the new weights;
 3) The notebook associated to the project is: https://colab.research.google.com/drive/1LyDXBj6gS-bt937Rzcgc6YWQ8zsviiTS#scrollTo=gi1t1dKcNeS2
+
+## Report
+
+For a complete description of the project download the [report.pdf](https://github.com/steo13/aml-domain2text-project/blob/main/report.pdf) from this repository.
 
 ## Students
 The project was developed by:
