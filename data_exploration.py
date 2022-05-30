@@ -5,7 +5,7 @@ from sklearn.decomposition import PCA
 import pandas as pd
 
 AVERAGE_SIMILARITIES_FILE = './average_similarities.txt'
-PACS_EMBEDDING_FOLDER = './PACS_embeddings/'
+PACS_EMBEDDING_FOLDER = './aml-domain2text-project/PACS_embeddings/'
 DOMAINS = ['ArtPainting', 'Cartoon', 'Sketch', 'Photo']
 COLORS = ['r', 'g', 'b', 'y']
 
@@ -103,5 +103,5 @@ if __name__ == '__main__':
     average_similarities()
 
     # plot PCA
-    print("PCA applied on the embeddings of PACS dataset\n")
+    print("\nPCA applied on the embeddings of PACS dataset\n")
     PCA_embedding()
