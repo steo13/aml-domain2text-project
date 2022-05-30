@@ -1,14 +1,14 @@
 import json
+from matplotlib import markers
 import matplotlib.pyplot as plt
+from numpy import size
 
 from sklearn.decomposition import PCA
 import pandas as pd
 import plotly.express as px
 
 AVERAGE_SIMILARITIES_FILE = './average_similarities.txt'
-PACS_EMBEDDING_FOLDER = './aml-domain2text-project/PACS_embeddings/'
-DOMAINS = ['ArtPainting', 'Cartoon', 'Sketch', 'Photo']
-COLORS = ['r', 'g', 'b', 'y']
+PACS_EMBEDDING_FOLDER = './aml-domain2text-project/graphs/'
 
 '''
 Barplot target domains vs average distances from sources
@@ -19,6 +19,9 @@ def average_similarities ():
     bar_width = 0.25
     labels = []
     bars = {}
+    DOMAINS = ['Cartoon', 'Photo', 'Sketch', 'ArtPainting']
+    COLORS = ['g', 'yellow', 'b', 'r']
+
     file = open(AVERAGE_SIMILARITIES_FILE, 'r')
     for line in file:
         dict = json.loads(line)
@@ -31,25 +34,20 @@ def average_similarities ():
                 bars[domain] = []
                 bars[domain].append(dict[key][domain])
 
-    r1 = [0, 2, 3]
-    r2 = [0 + bar_width, 1, 2 + bar_width]
-    r3 = [0 + 2*bar_width, 1 + bar_width, 3 + bar_width]
-    r4 = [1 + 2*bar_width, 2 + 2*bar_width, 3 + 2*bar_width]
+    rows = [[0, 2, 3], [0 + bar_width, 1, 2 + bar_width], [0 + 2*bar_width, 1 + bar_width, 3 + bar_width], [1 + 2*bar_width, 2 + 2*bar_width, 3 + 2*bar_width]]
 
-    plt.bar(r1, bars['Cartoon'], width=bar_width, edgecolor='white', color='green', label='Cartoon')
-    plt.bar(r2, bars['Photo'], width=bar_width, edgecolor='white', color='yellow', label='Photo')
-    plt.bar(r3, bars['Sketch'], width=bar_width, edgecolor='white', color='blue', label='Sketch')
-    plt.bar(r4, bars['ArtPainting'], width=bar_width, edgecolor='white', color='red', label='ArtPainting')
-    
+    for (index, row) in enumerate(rows):
+        plt.bar(row, bars[DOMAINS[index]], width=bar_width, edgecolor='white', color=COLORS[index], label=DOMAINS[index])
+
     for index, value in enumerate(bars['Cartoon']):
-        plt.text(r1[index] - 0.12,  value + 0.01, float("{0:.2f}".format(value)), fontsize='small')
+        plt.text(rows[0][index] - 0.12,  value + 0.01, float("{0:.2f}".format(value)), fontsize='small')
     for index, value in enumerate(bars['Photo']):
-        plt.text(r2[index] - 0.12,  value + 0.01, float("{0:.2f}".format(value)), fontsize='small')
+        plt.text(rows[1][index] - 0.12,  value + 0.01, float("{0:.2f}".format(value)), fontsize='small')
     for index, value in enumerate(bars['Sketch']):
-        plt.text(r3[index] - 0.12,  value + 0.01, float("{0:.2f}".format(value)), fontsize='small')
+        plt.text(rows[2][index] - 0.12,  value + 0.01, float("{0:.2f}".format(value)), fontsize='small')
     for index, value in enumerate(bars['ArtPainting']):
-        plt.text(r4[index] - 0.12,  value + 0.01, float("{0:.2f}".format(value)), fontsize='small')
-
+        plt.text(rows[3][index] - 0.12,  value + 0.01, float("{0:.2f}".format(value)), fontsize='small')
+    
     plt.xticks([r + bar_width for r in range(4)], ['ArtPainting', 'Cartoon', 'Sketch', 'Photo'])
     plt.xlabel('Target domains', fontweight='bold')
     plt.ylabel('Average similarities from sources', fontweight='bold')
@@ -57,11 +55,11 @@ def average_similarities ():
     plt.legend(loc='upper center', bbox_to_anchor=(0.5, 1.15), ncol=4, title="Sources")
     plt.show()
 
-
-
 def PCA_embedding():
     df = []
     final_df = []
+    DOMAINS = ['ArtPainting', 'Cartoon', 'Sketch', 'Photo']
+    COLORS = ['r', 'g', 'b', 'y']
 
     for domain in DOMAINS:
         local_df = pd.read_csv(PACS_EMBEDDING_FOLDER+domain+'.csv')
@@ -95,10 +93,12 @@ def PCA_embedding():
       z='PC3', 
       color='Target',
       opacity=0.7,
-      color_discrete_map=color_discrete_map
+      color_discrete_map=color_discrete_map,
+      width=800, height=600
     )
     fig.update_traces(marker_size=2)
     fig.show()
+
     # matplotlib plot
     print("\nStatic view of 3-PCA PACS embedding!\n")
     fig = plt.figure(figsize=(8, 8))
