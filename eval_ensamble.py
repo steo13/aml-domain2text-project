@@ -182,7 +182,7 @@ def main():
     print('Accuracy text_domain_embedding: %.2f ' % (acc_only_texture_domain_embedding))
 
     list = {}
-    fd = open('average_distances.txt', 'a')
+    fd = open('average_similarities.txt', 'a')
     list[args.target] = {sources[0]: sum(w1)/len(w1), sources[1]: sum(w2)/len(w2), sources[2]: sum(w3)/len(w3)}
     fd.write(str(list).replace("'", '"')+'\n')
     fd.close()
